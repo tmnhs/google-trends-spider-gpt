@@ -1,0 +1,120 @@
+# 通用化配置：allow_tag、page_turn、img_field、readmore_prefix、ad_string
+#
+# 允许匹配的标签，即可能存在文章内容的标签
+allow_tag:
+  # 常见标签
+  - section
+  - html
+  - div
+  - body
+  - main
+  - article
+  - title
+  - p
+  - span
+  - b
+  - sup
+  - pre
+  - strong
+  - s
+  - font
+  - header
+  - h1
+  - h2
+  - h3
+  - h4
+  - h5
+  - h6
+  - ul
+  - li
+  - ol
+  - link
+  - a
+  - br
+  - picture
+  - source
+  - img
+  - figure
+  - svg
+  - em
+  - small
+  - hr
+  - i
+  - u
+  - center
+  - video
+  - aside
+  - iframe
+  - blockquote
+  #  表格
+  - table
+  - th
+  - tr
+  - thead
+  - td
+  - tbody
+  # espn特殊标签：inline2
+  - inline2
+# 页面跳转的关键字
+page_turn:
+  # 下一页
+  next:
+    - next
+    - start slideshow
+    - begin slideshow
+    - next page
+    - next slide
+    - next post
+    - next >
+    - WEITER➜
+    - next post→
+    - →
+  # 上一页
+  prev:
+    - prev
+    - previous
+    - last
+    - < previous
+    - ⟵
+    - ←
+    - previous post
+# 可能存在图片的标签属性，eg:<img src=''>
+img_field:
+  - srcset
+  - data-gl-src
+  - data-original
+  - data-src
+  - data-srcset
+  - data-original-mos
+  - data-pin-media
+  - data-normal
+  - src
+  - data-lazy-src
+# 一些页面可能会出现的与read more相关的无用元素，需要删除
+readmore_prefix:
+  - This article originally appeared on
+  - read more
+  # www.nytimes.com : 'continue reading the main story','阅读简体中文版','閱讀繁體中文版'   
+  - continue reading the main story
+  - 阅读简体中文版
+  - 閱讀繁體中文版
+# PM要求删除链接，但是保存Twitter、Facebook、Instagram的分享卡片
+social_link_prefix:
+  - https://twitter.com/
+  - https://t.co/
+  - https://www.instagram.com/
+  - https://www.facebook.com/
+  - https://fb.me/
+  - https://www.youtube.com/embed/
+  - https://www.linkedin.com/embed/
+# 判断元素是否为广告标记
+ad_string:
+  - ad
+  - advertisement
+  - sponsored
+  - advertisements
+  - skip advertisement
+
+# 需要删除的属性
+del_field:
+  - data-post_url

@@ -1,0 +1,1781 @@
+{
+  "default": {
+    "trendingSearchesDays": [
+      {
+        "date": "20230713",
+        "formattedDate": "Thursday, July 13, 2023",
+        "trendingSearches": [
+          {
+            "title": {
+              "query": "Powerball",
+              "exploreLink": "/trends/explore?q=Powerball&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "500K+",
+            "relatedQueries": [
+              {
+                "query": "powerball july 12 2023",
+                "exploreLink": "/trends/explore?q=powerball+july+12+2023&date=now+7-d&geo=US"
+              },
+              {
+                "query": "power ball july 12",
+                "exploreLink": "/trends/explore?q=power+ball+july+12&date=now+7-d&geo=US"
+              }
+            ],
+            "image": {
+              "newsUrl": "https://www.npr.org/2023/07/13/1187542418/powerball-jackpot-875-million-no-winners-third-highest",
+              "source": "NPR",
+              "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJ55ZQMNCIDaLN3HZs30BNQsqM_MnvgEd6PDiEAzPQgJiJvULALCfbFg-wQzrDA03BM_klAem1"
+            },
+            "articles": [
+              {
+                "title": "Powerball jackpot climbs to $875 million, the third-largest on record",
+                "timeAgo": "6h ago",
+                "source": "NPR",
+                "image": {
+                  "newsUrl": "https://www.npr.org/2023/07/13/1187542418/powerball-jackpot-875-million-no-winners-third-highest",
+                  "source": "NPR",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQJ55ZQMNCIDaLN3HZs30BNQsqM_MnvgEd6PDiEAzPQgJiJvULALCfbFg-wQzrDA03BM_klAem1"
+                },
+                "url": "https://www.npr.org/2023/07/13/1187542418/powerball-jackpot-875-million-no-winners-third-highest",
+                "snippet": "The new jackpot for the next drawing is the third-largest in the history of the game, coming behind the world record $2.04 billion jackpot won last year and&nbsp;..."
+              },
+              {
+                "title": "Saturday&#39;s Powerball will rank among its top 3 jackpots",
+                "timeAgo": "15h ago",
+                "source": "KTVH",
+                "image": {
+                  "newsUrl": "https://www.ktvh.com/saturday-s-powerball-will-rank-among-its-top-3-jackpots",
+                  "source": "KTVH",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQQ8PKzhUYhGFHibvpI1PkYU7Xn-Tv9m413PY-NvYJBQqvdibETzU6Fc276oiD04JccWzp18-gQ"
+                },
+                "url": "https://www.ktvh.com/saturday-s-powerball-will-rank-among-its-top-3-jackpots",
+                "snippet": "Powerball isn&#39;t alone in offering a massive jackpot. Mega Millions is offering one of its 10 largest jackpots ever this week."
+              },
+              {
+                "title": "Indiana resident bought million-dollar Powerball ticket",
+                "timeAgo": "5h ago",
+                "source": "USA TODAY",
+                "image": {
+                  "newsUrl": "https://www.usatoday.com/story/money/2023/07/13/powerball-numbers-indiana-winner-million-prize/70412049007/",
+                  "source": "USA TODAY",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQZA-F6gvq00ZMVEqcQpTi-_KgiQKzYL_sR4Atzqor6jhIc9QyPAEfQxW4P0LgMwA19mSJL1zbt"
+                },
+                "url": "https://www.usatoday.com/story/money/2023/07/13/powerball-numbers-indiana-winner-million-prize/70412049007/",
+                "snippet": "One of the two $1 million Powerball tickets from Wednesday&#39;s draw was bought in Lafayette, IN. The other was bought in Florida."
+              },
+              {
+                "title": "Powerball jackpot hits $875 million for July 15 drawing",
+                "timeAgo": "11h ago",
+                "source": "Asbury Park Press",
+                "image": {
+                  "newsUrl": "https://www.app.com/story/entertainment/2023/07/13/powerball-jackpot-saturday-july-15/70409912007/",
+                  "source": "Asbury Park Press",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRan-E_3zc_KKecujGoGhPmjtoYp0UuPEs1OyFviLXHz66HNczsXC184VeJA5dTSlYI960ikllI"
+                },
+                "url": "https://www.app.com/story/entertainment/2023/07/13/powerball-jackpot-saturday-july-15/70409912007/",
+                "snippet": "The Powerball jackpot has reached an estimated $875 million for the Saturday, July 15 drawing after no ticket matched Wednesday&#39;s winning numbers."
+              },
+              {
+                "title": "As Powerball jackpot rises to $875 million, these are the odds of winning",
+                "timeAgo": "11h ago",
+                "source": "CBS News",
+                "image": {
+                  "newsUrl": "https://www.cbsnews.com/news/powerball-jackpot-odds-of-winning/",
+                  "source": "CBS News",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRl1aEac98vMgK0UjifIcpxq3H2yAroZWds0igHUzjNWVS6p6RTvrIeh1ysybJBhKVCIWnSgN0X"
+                },
+                "url": "https://www.cbsnews.com/news/powerball-jackpot-odds-of-winning/",
+                "snippet": "You&#39;re far more likely to be attacked by a grizzly bear, or to be struck by lightning, than to win the big prize."
+              },
+              {
+                "title": "$1M Powerball ticket sold in Indiana, but jackpot continues to grow ...",
+                "timeAgo": "5h ago",
+                "source": "NBC Chicago",
+                "image": {
+                  "newsUrl": "https://www.nbcchicago.com/news/local/1m-powerball-ticket-sold-in-indiana-but-jackpot-continues-to-grow-to-875m/3185925/",
+                  "source": "NBC Chicago",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcT8lZtRLr7F9oZMC81KNhRRDH4CYEWmhF_aKX8MxidTmTKf3AW2JsntH8BPTJOi42kU7I5paRG1"
+                },
+                "url": "https://www.nbcchicago.com/news/local/1m-powerball-ticket-sold-in-indiana-but-jackpot-continues-to-grow-to-875m/3185925/",
+                "snippet": "One lucky Powerball ticket sold in Indiana just made someone $1 million richer \u2014 but the game&#39;s massive, growing jackpot is still up for grabs ahead of the."
+              },
+              {
+                "title": "When is the next Powerball drawing? How to buy tickets for the $875 ...",
+                "timeAgo": "10h ago",
+                "source": "Cincinnati.com",
+                "image": {
+                  "newsUrl": "https://www.cincinnati.com/story/news/2023/07/13/powerball-when-next-drawing-how-to-play-875-million-jackpot/70409599007/",
+                  "source": "Cincinnati.com",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQtGJG8D3CI_SuwJzCJMVnU6GHAXtJE1X7b0sG5IhnfFWY6rrGlvWjnAG3DlhUHkitnhhXJHZae"
+                },
+                "url": "https://www.cincinnati.com/story/news/2023/07/13/powerball-when-next-drawing-how-to-play-875-million-jackpot/70409599007/",
+                "snippet": "No one claimed the jackpot during Wednesday&#39;s Powerball drawing, and it is now at an estimated $875 million, with a cash value of $441.9 million."
+              },
+              {
+                "title": "Powerball Jackpot Reaches $875 Million\u2014Third-Largest Ever ...",
+                "timeAgo": "13h ago",
+                "source": "Forbes",
+                "image": {
+                  "newsUrl": "https://www.forbes.com/sites/tylerroush/2023/07/13/powerball-jackpot-reaches-875-million-third-largest-ever-heres-what-the-winner-would-take-home-after-taxes/",
+                  "source": "Forbes",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTPoO8ws6llVdiYFBXWFEH46z7P5WrO3sdYB13SVFByxkwY8rjukmoz-Mu6GoLT6RpC2gYYDGel"
+                },
+                "url": "https://www.forbes.com/sites/tylerroush/2023/07/13/powerball-jackpot-reaches-875-million-third-largest-ever-heres-what-the-winner-would-take-home-after-taxes/",
+                "snippet": "The jackpot is also the seventh-largest lottery jackpot ever, trailing a $1 billion Mega Millions jackpot won in 2021. Of the 10 largest jackpots ever, six were&nbsp;..."
+              },
+              {
+                "title": "Lottery scams to watch out for as Powerball, Mega Millions jackpots soars",
+                "timeAgo": "4h ago",
+                "source": "CBS News",
+                "image": {
+                  "newsUrl": "https://www.cbsnews.com/news/lottery-scams-powerball-mega-millions-jackpots/",
+                  "source": "CBS News",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcT3LzzM8T9aDm5d40WZxV-e8pNgOprXWtQvaEQgIx4NWODjgjHXaydxB83ghGT1_HAB-sr0tb7l"
+                },
+                "url": "https://www.cbsnews.com/news/lottery-scams-powerball-mega-millions-jackpots/",
+                "snippet": "The Powerball jackpot climbed to an estimated $875 million after there were no winners in Wednesday night&#39;s drawing. The estimated jackpot for the next Mega&nbsp;..."
+              },
+              {
+                "title": "Oregonians score big with Powerball: $150000 and $50000 winners ...",
+                "timeAgo": "8h ago",
+                "source": "KPIC News",
+                "image": {
+                  "newsUrl": "https://kpic.com/news/local/oregonians-score-big-with-powerball-150000-and-50000-winners-announced-in-cottage-grove-and-lincoln-city",
+                  "source": "KPIC News",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSauEOyg75RiVZP2exOPYIcaQgTF1cn-jDVY1mnasyqrgS2kblZxV8WlohnIu1PeWYbkJiyCL1X"
+                },
+                "url": "https://kpic.com/news/local/oregonians-score-big-with-powerball-150000-and-50000-winners-announced-in-cottage-grove-and-lincoln-city",
+                "snippet": "According to Oregon Lottery, the largest prize won in Oregon was a $340 million jackpot in 2005. The Powerball jackpot now stands at $875-million, and Mega&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Powerball#Powerball"
+          },
+          {
+            "title": {
+              "query": "XRP",
+              "exploreLink": "/trends/explore?q=XRP&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "200K+",
+            "relatedQueries": [
+              {
+                "query": "XRP Price",
+                "exploreLink": "/trends/explore?q=XRP+Price&date=now+7-d&geo=US"
+              },
+              {
+                "query": "xrp news",
+                "exploreLink": "/trends/explore?q=xrp+news&date=now+7-d&geo=US"
+              },
+              {
+                "query": "Coinbase",
+                "exploreLink": "/trends/explore?q=Coinbase&date=now+7-d&geo=US"
+              }
+            ],
+            "image": {
+              "newsUrl": "https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/",
+              "source": "Reuters",
+              "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFruRgZwn5nfoGoFCJgpQFNiGMPc4EDmGgGCRVbZh6tiklbZGRXcp63Dy4DOSYAuWtDZzoZY3W"
+            },
+            "articles": [
+              {
+                "title": "Ripple Labs notches landmark win in SEC case over XRP cryptocurrency",
+                "timeAgo": "5h ago",
+                "source": "Reuters",
+                "image": {
+                  "newsUrl": "https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/",
+                  "source": "Reuters",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSFruRgZwn5nfoGoFCJgpQFNiGMPc4EDmGgGCRVbZh6tiklbZGRXcp63Dy4DOSYAuWtDZzoZY3W"
+                },
+                "url": "https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/",
+                "snippet": "Ripple Labs Inc did not violate federal securities law by selling its XRP token on public exchanges, a U.S. judge ruled on Thursday, a landmark legal&nbsp;..."
+              },
+              {
+                "title": "Crypto Industry Secures Early Victory in Legal Battle With Regulators",
+                "timeAgo": "4h ago",
+                "source": "The New York Times",
+                "image": {
+                  "newsUrl": "https://www.nytimes.com/2023/07/13/business/crypto-ripple-ruling.html",
+                  "source": "The New York Times",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQJsHWZnMySTRrH3vAMe5FlmayY8QRnkD1pl01Wo3_OwdH0J3tSSZP4uiDl9M1A_lbtJofq04e4"
+                },
+                "url": "https://www.nytimes.com/2023/07/13/business/crypto-ripple-ruling.html",
+                "snippet": "A judge ruled that the sale of the cryptocurrency XRP on public exchanges did not violate securities law."
+              },
+              {
+                "title": "XRP, Coinbase Surge As Investors Take Favorable View Of Ripple ...",
+                "timeAgo": "7h ago",
+                "source": "Forbes",
+                "image": {
+                  "newsUrl": "https://www.forbes.com/sites/stevenehrlich/2023/07/13/crypto-prices-surge-on-favorable-as-investors-take-favorable-view-of-ripple-ruling/",
+                  "source": "Forbes",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTpqRntpPESJ0QHYmROo24xd-5BYQ36k4neduq2kli2sh08m5Uf2OpiImIQVO0kv8Ch5bMENg_d"
+                },
+                "url": "https://www.forbes.com/sites/stevenehrlich/2023/07/13/crypto-prices-surge-on-favorable-as-investors-take-favorable-view-of-ripple-ruling/",
+                "snippet": "Ripple Labs Inc. won what looks like a partial victory in the suit against it by the Securities and Exchange Commission, sending cryptocurrency prices&nbsp;..."
+              },
+              {
+                "title": "XRP Token Not a Security But Ripple&#39;s Institutional Sales Broke Law",
+                "timeAgo": "8h ago",
+                "source": "Investopedia",
+                "image": {
+                  "newsUrl": "https://www.investopedia.com/xrp-token-not-a-security-judge-rules-but-ripples-institutional-xrp-sales-broke-the-law-7560765",
+                  "source": "Investopedia",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaFrfjb5LTLcfKjd9QzrSHYU_8CeFq_gFMuDwwPo54SI4fGQD2Yf9b4M6Kf71p2fQtE_LrLypH"
+                },
+                "url": "https://www.investopedia.com/xrp-token-not-a-security-judge-rules-but-ripples-institutional-xrp-sales-broke-the-law-7560765",
+                "snippet": "A judge in the SEC&#39;s case against Ripple has ruled the sales of XRP to institutional customers were unregistered securities offerings, even though the token&nbsp;..."
+              },
+              {
+                "title": "XRP coin surges after judge delivers a huge win to Ripple in SEC case",
+                "timeAgo": "3h ago",
+                "source": "CNBC",
+                "image": {
+                  "newsUrl": "https://www.cnbc.com/2023/07/13/xrp-surges-after-judge-delivers-a-huge-win-to-ripple-in-its-case-against-the-sec.html",
+                  "source": "CNBC",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWbK728oDdXQpJ3xYBlBEvwfDnm68MWdrjgB1JBdhO_s06nWZFdGJcRn-OpIu-pyUgp8R7PjNV"
+                },
+                "url": "https://www.cnbc.com/2023/07/13/xrp-surges-after-judge-delivers-a-huge-win-to-ripple-in-its-case-against-the-sec.html",
+                "snippet": "Ripple&#39;s XRP token surged on Thursday after a judge in the Southern District of New York ruled that it&#39;s &quot;not necessarily a security on its face.&quot;"
+              },
+              {
+                "title": "XRP becomes 4th largest crypto after Ripple&#39;s partial win over SEC",
+                "timeAgo": "2h ago",
+                "source": "Cointelegraph",
+                "image": {
+                  "newsUrl": "https://cointelegraph.com/news/ripple-xrp-price-market-cap-jumps-sec-ruling",
+                  "source": "Cointelegraph",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcR6YErr_nPyF1kKez53ssFbmzZRr3e1PGGqo7VngsxJOIbV9vVvuG2uyJbytjsl3AeIojXGvSkH"
+                },
+                "url": "https://cointelegraph.com/news/ripple-xrp-price-market-cap-jumps-sec-ruling",
+                "snippet": "The market capitalization of Ripple&#39;s native XRP token grew by a staggering $21 billion in three hours after a United States District Court deemed sales of&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=XRP#XRP"
+          },
+          {
+            "title": {
+              "query": "Arsenal",
+              "exploreLink": "/trends/explore?q=Arsenal&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "50K+",
+            "relatedQueries": [
+              {
+                "query": "n\u00fcrnberg vs arsenal",
+                "exploreLink": "/trends/explore?q=n%C3%BCrnberg+vs+arsenal&date=now+7-d&geo=US"
+              }
+            ],
+            "image": {
+              "newsUrl": "https://www.espn.com/soccer/report/_/gameId/670738",
+              "source": "ESPN",
+              "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzMjoktKEZ40YJl2VMXtNXySyj9nnZfEa0xGmJKsLnMYcOnlLc7NWZ2IxDKiwJ-0e9S8FwzWWy"
+            },
+            "articles": [
+              {
+                "title": "Nurnberg 1-1 Arsenal (Jul 13, 2023) Game Analysis",
+                "timeAgo": "3h ago",
+                "source": "ESPN",
+                "image": {
+                  "newsUrl": "https://www.espn.com/soccer/report/_/gameId/670738",
+                  "source": "ESPN",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQzMjoktKEZ40YJl2VMXtNXySyj9nnZfEa0xGmJKsLnMYcOnlLc7NWZ2IxDKiwJ-0e9S8FwzWWy"
+                },
+                "url": "https://www.espn.com/soccer/report/_/gameId/670738",
+                "snippet": "Arsenal were held to a 1-1 draw by Nurnberg in their opening game of preseason, despite an early goal from Bukayo Saka in Germany on Thursday."
+              },
+              {
+                "title": "Ticket information: Arsenal v Tottenham Hotspur",
+                "timeAgo": "13h ago",
+                "source": "Arsenal.com",
+                "image": {
+                  "newsUrl": "https://www.arsenal.com/tickets/arsenal/2023-Sep-24/tottenham-hotspur",
+                  "source": "Arsenal.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdlJ2rjqU1KJ3QcD4r6aKrMu7skT-cUUnG2DFkK1EIpU5iOkmD4HpMkaBebXVp4vTTSyj7rng2"
+                },
+                "url": "https://www.arsenal.com/tickets/arsenal/2023-Sep-24/tottenham-hotspur",
+                "snippet": "Ticketing information for our Premier League fixture against Tottenham Hotspur, which will take place at Emirates Stadium."
+              },
+              {
+                "title": "Every word from Mikel&#39;s post-Nurnberg presser | Press conference ...",
+                "timeAgo": "7h ago",
+                "source": "Arsenal.com",
+                "image": {
+                  "newsUrl": "https://www.arsenal.com/news/every-word-mikels-post-nurnberg-presser",
+                  "source": "Arsenal.com",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTBbtRHQ13SKRww6y-Zsz2B8SYHVeD-lB_OES5keNxHo9NCZN_FVJeY9qgmfFXIV3IC3ud6_YsN"
+                },
+                "url": "https://www.arsenal.com/news/every-word-mikels-post-nurnberg-presser",
+                "snippet": "After seeing his side draw 1-1 with FC Nurnberg out in Germany, Mikel Arteta chatted to a host of journalists who had also made the trip over about numerous&nbsp;..."
+              },
+              {
+                "title": "Nurnberg vs Arsenal: Where to watch the match online, live stream ...",
+                "timeAgo": "11h ago",
+                "source": "Goal.com",
+                "image": {
+                  "newsUrl": "https://www.goal.com/en-us/news/nurnberg-v-arsenal-live-stream-online-tv-where-to-watch/bltb46289b95b6540cd",
+                  "source": "Goal.com",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRwma7eT3WTirPbvneDfYExNMhk4d3SaXsvioD7z7n9GQYehfUkke5q0Jqh2makM6LVY-SNf57A"
+                },
+                "url": "https://www.goal.com/en-us/news/nurnberg-v-arsenal-live-stream-online-tv-where-to-watch/bltb46289b95b6540cd",
+                "snippet": "Where to watch the friendly match online between Nurnberg and Arsenal, including live streams, TV channels, kick-off time and more."
+              },
+              {
+                "title": "Nurnberg vs Arsenal score, result, highlights as Havertz makes first Gunners appearance in stalemate",
+                "timeAgo": "7h ago",
+                "source": "Sporting News",
+                "image": {
+                  "newsUrl": "https://www.sportingnews.com/us/soccer/news/nurnberg-vs-arsenal-live-score-updates-lineups-and-result-preseason-friendly/ig6w4tewb1aimqcpctnkezkq",
+                  "source": "Sporting News",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRvM8DD_56jss9JcHHFMcTmIhMx0EejoLL9RVR1fsiyn2CLwZXNPZNBd40GJZqZSs7dema5AWDO"
+                },
+                "url": "https://www.sportingnews.com/us/soccer/news/nurnberg-vs-arsenal-live-score-updates-lineups-and-result-preseason-friendly/ig6w4tewb1aimqcpctnkezkq",
+                "snippet": "Look back over Arsenal&#39;s first preseason fixture with Nurnberg as Saka scores in a 1-1 draw against their German opponents."
+              },
+              {
+                "title": "Superb Bukayo Saka Strike Canceled Out By Freak Goal As Arsenal ...",
+                "timeAgo": "3h ago",
+                "source": "Sports Illustrated",
+                "image": {
+                  "newsUrl": "https://www.si.com/fannation/soccer/futbol/video/nurnberg-1-1-arsenal-highlights-saka-goal-freak-equalizer",
+                  "source": "Sports Illustrated",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR8nvVTaJemBSrgjpgTQVOVe2Gm6oVQoP_DsPv1WIMMyD6FUBWwsxLFe2a12Fgcjs5Eef8DKYG0"
+                },
+                "url": "https://www.si.com/fannation/soccer/futbol/video/nurnberg-1-1-arsenal-highlights-saka-goal-freak-equalizer",
+                "snippet": "Watch match highlights from Arsenal&#39;s 1-1 draw with Nurnberg. Bukayo Saka scored a superb goal for Arsenal. But a freak equalizer denied the Gunners a win."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Arsenal#Arsenal"
+          },
+          {
+            "title": {
+              "query": "The Summer I Turned Pretty Season 2",
+              "exploreLink": "/trends/explore?q=The+Summer+I+Turned+Pretty+Season+2&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "50K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.billboard.com/culture/product-recommendations/the-summer-i-turned-pretty-how-to-watch-1235371051/",
+              "source": "Billboard",
+              "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnoQvU-2V49qhEoK9YyjU1RoFvfHD8glethw39WvDju_YW0MxbhBsJBiKzHehYnm8IKaf0HfoP"
+            },
+            "articles": [
+              {
+                "title": "How to Watch &#39;The Summer I Turned Pretty&#39; Season 2 on Prime Video",
+                "timeAgo": "8h ago",
+                "source": "Billboard",
+                "image": {
+                  "newsUrl": "https://www.billboard.com/culture/product-recommendations/the-summer-i-turned-pretty-how-to-watch-1235371051/",
+                  "source": "Billboard",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRnoQvU-2V49qhEoK9YyjU1RoFvfHD8glethw39WvDju_YW0MxbhBsJBiKzHehYnm8IKaf0HfoP"
+                },
+                "url": "https://www.billboard.com/culture/product-recommendations/the-summer-i-turned-pretty-how-to-watch-1235371051/",
+                "snippet": "Watch the love-triangle continue to unfold starting Thursday (July 13) at 8 p.m. ET on Prime Video."
+              },
+              {
+                "title": "'The Summer I Turned Pretty' Season Two: How to Watch the Hit Show Online for Free",
+                "timeAgo": "7h ago",
+                "source": "Rolling Stone",
+                "image": {
+                  "newsUrl": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-the-summer-i-turned-pretty-free-online-1234787962/",
+                  "source": "Rolling Stone",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQj_3H6qONvRhZBHMwqnfuhDJL7bIqreyU7IPZGsfhz1RxOU_x4A7jgO7UyBzPDJ9Ij9PF2P8ao"
+                },
+                "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-the-summer-i-turned-pretty-free-online-1234787962/",
+                "snippet": "Streaming on Prime Video, here&#39;s how to watch &#39;The Summer I Turned Pretty&#39; Season 2 for free online with your subscription on July 14."
+              },
+              {
+                "title": "How to watch &#39;The Summer I Turned Pretty&#39; season 2 premiere ...",
+                "timeAgo": "6h ago",
+                "source": "al.com",
+                "image": {
+                  "newsUrl": "https://www.al.com/tv/2023/07/how-to-watch-the-summer-i-turned-pretty-season-2-premiere-where-to-stream.html",
+                  "source": "al.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSNHjAsJLvCH1R99EejfMWRKuvKPx3wp24Le5Db23EB1ZRHiFNDltvXaYB-ArqHGSTWajgmVUFk"
+                },
+                "url": "https://www.al.com/tv/2023/07/how-to-watch-the-summer-i-turned-pretty-season-2-premiere-where-to-stream.html",
+                "snippet": "Belly used to count down the days until she could return to Cousins Beach, but with Conrad and Jeremiah fighting over her heart and the return of Susannah&#39;s&nbsp;..."
+              },
+              {
+                "title": "How &amp; Where to Watch The Summer I Turned Pretty in 2023",
+                "timeAgo": "7h ago",
+                "source": "Cloudwards",
+                "image": {
+                  "newsUrl": "https://www.cloudwards.net/watch-the-summer-i-turned-pretty/",
+                  "source": "Cloudwards",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTdEwY0lwj0qmuYY5emNfwXltPlKJxEhOoair1lDTN0oc28RxIQqWorv59FhLhPFaArYL3oyzgl"
+                },
+                "url": "https://www.cloudwards.net/watch-the-summer-i-turned-pretty/",
+                "snippet": "In this guide, we explain how and where to watch The Summer I Turned Pretty with a VPN, just in time for the start of season two."
+              },
+              {
+                "title": "&#39;The Summer I Turned Pretty&#39; Cast on Season 2 Love Triangle: &#39;You ...",
+                "timeAgo": "9h ago",
+                "source": "PEOPLE.com",
+                "image": {
+                  "newsUrl": "https://people.com/the-summer-i-turned-pretty-cast-discuss-season-2-love-triangle-exclusive-interview-7557655",
+                  "source": "PEOPLE.com",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3XIgPUBmtGXAlopDpl-Owb-q251OcdbZF0ghAI5qtbPxqQ6V-Wn7bq2NyNuHG6ST0HLJRd1dc"
+                },
+                "url": "https://people.com/the-summer-i-turned-pretty-cast-discuss-season-2-love-triangle-exclusive-interview-7557655",
+                "snippet": "Stars Lola Tung, Christopher Briney and Gavin Casalegno talk exclusively with PEOPLE about how Belly &#39;has so much love&#39; for Conrad and Jeremiah."
+              },
+              {
+                "title": "Shop outfits and more inspired by &#39;The Summer I Turned Pretty ...",
+                "timeAgo": "14h ago",
+                "source": "New York Post",
+                "image": {
+                  "newsUrl": "https://nypost.com/2023/07/13/shop-the-summer-i-turned-pretty-season-2-inspired-outfits-more/",
+                  "source": "New York Post",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSvvDcLWAKjbl6jmwz-gD8PXBcMTNZgIPvVOk6Cysa2D1tw5rXMTEoZWYVXvOfjPwfd0nlcqLp2"
+                },
+                "url": "https://nypost.com/2023/07/13/shop-the-summer-i-turned-pretty-season-2-inspired-outfits-more/",
+                "snippet": "Not only can you stream the second season of the hit Prime Video show, but you can shop clothing, accessories and more inspired by the show during the&nbsp;..."
+              },
+              {
+                "title": "What Time Is &#39;The Summer I Turned Pretty&#39; Season 2 on Prime Video?",
+                "timeAgo": "9h ago",
+                "source": "Decider",
+                "image": {
+                  "newsUrl": "https://decider.com/2023/07/13/what-time-is-the-summer-i-turned-pretty-season-2-prime-video-premiere-date-how-many-episodes/",
+                  "source": "Decider",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQIhTTW0A4-OujXNxopZeppsnDxFA4bC8R1EwREGU4qdRTq60iK8JxPvPELlpjaq4Hr1KJwvLJM"
+                },
+                "url": "https://decider.com/2023/07/13/what-time-is-the-summer-i-turned-pretty-season-2-prime-video-premiere-date-how-many-episodes/",
+                "snippet": "Wondering what time &#39;The Summer I Turned Pretty&#39; Season 2 premieres on Prime Video? Here&#39;s the Season 2 premiere date, time, episode guide, cast, and more."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=The+Summer+I+Turned+Pretty+Season+2#The%20Summer%20I%20Turned%20Pretty%20Season%202"
+          },
+          {
+            "title": {
+              "query": "Dele Alli",
+              "exploreLink": "/trends/explore?q=Dele+Alli&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.espn.com/soccer/story/_/id/38004205/dele-alli-reveals-rehab-stay-addiction-childhood-sexual-abuse",
+              "source": "ESPN",
+              "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRK0k8ml3w4TsZIcGOPY_hSK509nQpJc48-JzdzDz1aMIeYM8weI_kjxNaetzj-kgqIXJYSs9gR"
+            },
+            "articles": [
+              {
+                "title": "Dele Alli reveals rehab stay for addiction after childhood sexual ...",
+                "timeAgo": "16h ago",
+                "source": "ESPN",
+                "image": {
+                  "newsUrl": "https://www.espn.com/soccer/story/_/id/38004205/dele-alli-reveals-rehab-stay-addiction-childhood-sexual-abuse",
+                  "source": "ESPN",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRK0k8ml3w4TsZIcGOPY_hSK509nQpJc48-JzdzDz1aMIeYM8weI_kjxNaetzj-kgqIXJYSs9gR"
+                },
+                "url": "https://www.espn.com/soccer/story/_/id/38004205/dele-alli-reveals-rehab-stay-addiction-childhood-sexual-abuse",
+                "snippet": "Dele Alli hopes to inspire others after recently spending six weeks at a rehab facility in the United States for addiction, mental health and trauma&nbsp;..."
+              },
+              {
+                "title": "Dele Alli: Soccer star says he was molested during chaotic ...",
+                "timeAgo": "11h ago",
+                "source": "CNN",
+                "image": {
+                  "newsUrl": "https://www.cnn.com/2023/07/13/sport/dele-alli-addiction-rehab-childhood-trauma-spt-intl/index.html",
+                  "source": "CNN",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTeKuXfjulfaw3gOqJNMtHPtnYxFoY3owMW-zOiTuukHtPzvegBSjBp_TfpYymRsUZiEQA0VAfm"
+                },
+                "url": "https://www.cnn.com/2023/07/13/sport/dele-alli-addiction-rehab-childhood-trauma-spt-intl/index.html",
+                "snippet": "England soccer international Dele Alli says he recently spent six weeks in rehab to help with his mental health and treatment for \u201caddiction and trauma,\u201d&nbsp;..."
+              },
+              {
+                "title": "Everton's Dele Alli opens up about pill addiction, sexual abuse as child",
+                "timeAgo": "15h ago",
+                "source": "Reuters",
+                "image": {
+                  "newsUrl": "https://www.reuters.com/sports/soccer/evertons-dele-alli-opens-up-about-pill-addiction-sexual-abuse-child-2023-07-13/",
+                  "source": "Reuters",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRBQteWIaXKOisJmjamSBTh37fqroEvScKIZJGKDxH-qLkxvM4v_xC99boP8BoKKreWH8OJmUWx"
+                },
+                "url": "https://www.reuters.com/sports/soccer/evertons-dele-alli-opens-up-about-pill-addiction-sexual-abuse-child-2023-07-13/",
+                "snippet": "Everton midfielder Dele Alli has revealed that he was sexually abused as a child and dealt drugs before he was adopted by an &quot;amazing&quot; family who helped him&nbsp;..."
+              },
+              {
+                "title": "Everton midfielder Dele Alli opens up about going to rehab after childhood sexual abuse",
+                "timeAgo": "2h ago",
+                "source": "USA TODAY",
+                "image": {
+                  "newsUrl": "https://www.usatoday.com/story/sports/soccer/2023/07/13/everton-dele-alli-talks-mental-health-after-childhood-sexual-abuse/70412283007/",
+                  "source": "USA TODAY",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTbNKEL8vkx7M6GI161_rJwhjEKxtLVQgkn1sbe4muLaxdA0a_iZsN436pgQeR2nb8WfjpYAi5V"
+                },
+                "url": "https://www.usatoday.com/story/sports/soccer/2023/07/13/everton-dele-alli-talks-mental-health-after-childhood-sexual-abuse/70412283007/",
+                "snippet": "Everton&#39;s Dele Alli said he spent six weeks in a rehabilitation center to improve his mental health and receive treatment for addition and trauma."
+              },
+              {
+                "title": "Dele Alli: footballer says he was sexually abused and dealing drugs ...",
+                "timeAgo": "9h ago",
+                "source": "The Guardian",
+                "image": {
+                  "newsUrl": "https://www.theguardian.com/football/2023/jul/13/dele-alli-sexually-abused-drug-dealing-as-a-child-sleeping-pill-addiction-rehab-everton",
+                  "source": "The Guardian",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSt9dqlUBiBb9adlRGYJVZDfzfRzi_O-8ZgontRgz91pDj0LzLwWwoluriyqOrc8pxrqbw-yAE_"
+                },
+                "url": "https://www.theguardian.com/football/2023/jul/13/dele-alli-sexually-abused-drug-dealing-as-a-child-sleeping-pill-addiction-rehab-everton",
+                "snippet": "The Everton and former England midfielder Dele Alli has revealed he was abused at the age of six and was dealing drugs by the time he was eight."
+              },
+              {
+                "title": "\u2018Powerful and brave\u2019: Dele Alli praised for candid interview about abuse, drug dealing and addiction",
+                "timeAgo": "15h ago",
+                "source": "Yahoo Sports",
+                "image": {
+                  "newsUrl": "https://sports.yahoo.com/powerful-brave-dele-alli-praised-113432399.html",
+                  "source": "Yahoo Sports",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWGi6PZoxg5j7D7YPCNqMs9nQH3Q55CYYZh2AirSE5vOSufdyp3XTX3EiNIuEam_IOj7gQUdHU"
+                },
+                "url": "https://sports.yahoo.com/powerful-brave-dele-alli-praised-113432399.html",
+                "snippet": "Ex-England international Alli opened up about his childhood trauma and spell in rehab during an interview with Gary Neville."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Dele+Alli#Dele%20Alli"
+          },
+          {
+            "title": {
+              "query": "Scottish Open",
+              "exploreLink": "/trends/explore?q=Scottish+Open&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.pgatour.com/article/news/latest/2023/07/13/how-to-watch-2023-genesis-scottish-open-round-2-live-scores-espn-featured-groups-tv-times-tee-times-the-renaissance-club-rory-mcilroy",
+              "source": "pgatour.com",
+              "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0eolshanvU70qH5GYMUTOaix3TpwklBfq_Gk9smdMml0CLXz6SavI8GR4aZCYk1r6xjUcuDkC"
+            },
+            "articles": [
+              {
+                "title": "How to Watch the Genesis Scottish Open, Round 2: Featured ...",
+                "timeAgo": "6h ago",
+                "source": "pgatour.com",
+                "image": {
+                  "newsUrl": "https://www.pgatour.com/article/news/latest/2023/07/13/how-to-watch-2023-genesis-scottish-open-round-2-live-scores-espn-featured-groups-tv-times-tee-times-the-renaissance-club-rory-mcilroy",
+                  "source": "pgatour.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR0eolshanvU70qH5GYMUTOaix3TpwklBfq_Gk9smdMml0CLXz6SavI8GR4aZCYk1r6xjUcuDkC"
+                },
+                "url": "https://www.pgatour.com/article/news/latest/2023/07/13/how-to-watch-2023-genesis-scottish-open-round-2-live-scores-espn-featured-groups-tv-times-tee-times-the-renaissance-club-rory-mcilroy",
+                "snippet": "Round 2 of the Genesis Scottish Open takes place Friday from The Renaissance Club in East Lothian, with Byeong Hun An leading the way at 9-under par."
+              },
+              {
+                "title": "2023 Genesis Scottish Open tee times: Round 2 groupings for Friday",
+                "timeAgo": "9h ago",
+                "source": "Golf.com",
+                "image": {
+                  "newsUrl": "https://golf.com/news/2023-genesis-scottish-open-tee-times-round-2-friday/",
+                  "source": "Golf.com",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTnHL5qNHXKPgkie7IzI5PuqY-g5DAJMtURPoV3BsZ0ZE1ipdMlD36N0UrubYm5JOgzDzfDJInR"
+                },
+                "url": "https://golf.com/news/2023-genesis-scottish-open-tee-times-round-2-friday/",
+                "snippet": "Full 2023 Genesis Scottish Open tee times for Round 2 on Friday, featuring Byeong Hun An, Rory McIlroy and more."
+              },
+              {
+                "title": "Scottish Open: Derivative Bets to Consider",
+                "timeAgo": "10h ago",
+                "source": "NBC Sports",
+                "image": {
+                  "newsUrl": "https://www.nbcsports.com/betting/betting-golf/news/scottish-open-derivative-bets-to-consider",
+                  "source": "NBC Sports",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSG5ax7rkyT7z2A8eUZ3ayoPt_kPWDFxd7WMvKMZMFZGG8BsO4iXpbVDzKPQR_oBHOBCWcJKb7B"
+                },
+                "url": "https://www.nbcsports.com/betting/betting-golf/news/scottish-open-derivative-bets-to-consider",
+                "snippet": "Outside of Scottie Scheffler, Fowler is playing the best golf in the world. Over the last 26 rounds, he&#39;s third in Strokes Gained: Total, third ins SG: Ball&nbsp;..."
+              },
+              {
+                "title": "Rory McIlroy in the mix among takeaways from first round of 2023 ...",
+                "timeAgo": "8h ago",
+                "source": "usatoday.com",
+                "image": {
+                  "newsUrl": "https://golfweek.usatoday.com/lists/2023-genesis-scottish-open-first-round-leaderboard-ben-an-rory-mcilroy/",
+                  "source": "usatoday.com",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRs8pE1VtDoYJi_cl1GzkAKBNGF0h0ogmD32620Qs5VyzfVQ05mlHOvjDVQ_PUH8zAaJn5-jDua"
+                },
+                "url": "https://golfweek.usatoday.com/lists/2023-genesis-scottish-open-first-round-leaderboard-ben-an-rory-mcilroy/",
+                "snippet": "Byeong Hun An had himself a day at The Renaissance Club, posting a bogey-free 9-under 61 to take the outright 18-hole lead. Looking for his first win on the PGA&nbsp;..."
+              },
+              {
+                "title": "Scottish Open Players Wearing Black Ribbons to Honor St. Andrews ...",
+                "timeAgo": "7h ago",
+                "source": "Sports Illustrated",
+                "image": {
+                  "newsUrl": "https://www.si.com/golf/news/scottish-open-players-wearing-black-ribbons-to-honor-st-andrews-golf-instructor",
+                  "source": "Sports Illustrated",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSZaEYxoGy6bEfXl_AZaTzp2W3nxDRgKJiSZVPc4cXfdAWIy5XCvDIpktfdIIPuvi5pZnQCf0b5"
+                },
+                "url": "https://www.si.com/golf/news/scottish-open-players-wearing-black-ribbons-to-honor-st-andrews-golf-instructor",
+                "snippet": "Bill McColl, 66, died in a car accident near St. Andrews this week, while on his way to give a golf lesson."
+              },
+              {
+                "title": "Friday tee times, how to watch the 2023 Genesis Scottish Open",
+                "timeAgo": "8h ago",
+                "source": "usatoday.com",
+                "image": {
+                  "newsUrl": "https://golfweek.usatoday.com/2023/07/13/friday-tee-times-how-to-watch-2023-genesis-scottish-open/",
+                  "source": "usatoday.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQNEo0pbcGlA1fesGnKOg3_VtFXEdDdzMR_7n3gXrVfgUHIk8AxjjNOisXIG_uSXDnGk46z9IAn"
+                },
+                "url": "https://golfweek.usatoday.com/2023/07/13/friday-tee-times-how-to-watch-2023-genesis-scottish-open/",
+                "snippet": "The Renaissance Club is a par-70 golf course that measures 7,237 yards. From tee times to TV and streaming info, here&#39;s everything you need to know for the&nbsp;..."
+              },
+              {
+                "title": "Rory McIlroy off to fast start at Genesis Scottish Open - PGA TOUR",
+                "timeAgo": "12h ago",
+                "source": "pgatour.com",
+                "image": {
+                  "newsUrl": "https://www.pgatour.com/article/news/latest/2023/07/13/rory-mcilroy-off-to-fast-start-at-genesis-scottish-open",
+                  "source": "pgatour.com",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQEaJ9OU6uV4jS5TzQ7dz5TTWmdmUVD0IbgJSiAM1sOUDmpakbpSKursPkNlXK1rHa5ldezdjR5"
+                },
+                "url": "https://www.pgatour.com/article/news/latest/2023/07/13/rory-mcilroy-off-to-fast-start-at-genesis-scottish-open",
+                "snippet": "GULLANE, Scotland \u2013 Rory McIlroy hadn&#39;t played a competitive round since he finished T7 at the Travelers Championship on June 25, and since then had taken&nbsp;..."
+              },
+              {
+                "title": "Rory McIlroy makes fast start to Scottish Open with brilliant opening ...",
+                "timeAgo": "8h ago",
+                "source": "Sky Sports",
+                "image": {
+                  "newsUrl": "https://www.skysports.com/golf/news/12176/12920348/rory-mcilroy-makes-fast-start-to-scottish-open-with-brilliant-opening-round-at-the-renaissance-club",
+                  "source": "Sky Sports",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRFUnkCOF1hobjR16I2K2PgkEuxtpJ40C9SXoccuf7LA2-n6Om4N-xmeobUDJOSHh5OBuQKNmX7"
+                },
+                "url": "https://www.skysports.com/golf/news/12176/12920348/rory-mcilroy-makes-fast-start-to-scottish-open-with-brilliant-opening-round-at-the-renaissance-club",
+                "snippet": "Rory McIlroy continued his resurgence in form to sit three shots behind the early clubhouse lead at the Genesis Scottish Open."
+              },
+              {
+                "title": "The 2023 Genesis Scottish Open Odds: Robert MacIntyre",
+                "timeAgo": "2h ago",
+                "source": "KWTX",
+                "image": {
+                  "newsUrl": "https://www.kwtx.com/sports/betting/2023/07/15/robert-macintyre-genesis-scottish-open-pga-odds/",
+                  "source": "KWTX",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRW-veIAIm0qyHBZWlW7i_3o35YR213nfplctfEgzLxi-4HX9t1jUgzN0nQ-sSLKWvPR0MTMqvG"
+                },
+                "url": "https://www.kwtx.com/sports/betting/2023/07/15/robert-macintyre-genesis-scottish-open-pga-odds/",
+                "snippet": "Get betting odds, stats and a preview of Robert MacIntyre at the 2023 Genesis Scottish Open, July 13-16."
+              },
+              {
+                "title": "Rory McIlroy speechless as amateur out-drives him ahead of ...",
+                "timeAgo": "16h ago",
+                "source": "SB Nation",
+                "image": {
+                  "newsUrl": "https://www.sbnation.com/2023/7/13/23793007/rory-mcilroy-out-driven-ruben-lindsey-genesis-scottish-open",
+                  "source": "SB Nation",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSgskv1LPmNEZn4uStTzd5QKbuvwpUNKx-c0UTbdyfFFmaVA8fX-xHE2UuAyr_iAiZbgydcbztF"
+                },
+                "url": "https://www.sbnation.com/2023/7/13/23793007/rory-mcilroy-out-driven-ruben-lindsey-genesis-scottish-open",
+                "snippet": "McIlroy is known for his ability to go long off the tee. Shockingly, amateur Ruben Lindsey showed him how it&#39;s done in Scotland."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Scottish+Open#Scottish%20Open"
+          },
+          {
+            "title": {
+              "query": "Kamala Harris",
+              "exploreLink": "/trends/explore?q=Kamala+Harris&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://time.com/6294599/kamala-harris-john-calhoun-history-senate-vice-president/",
+              "source": "TIME",
+              "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRcmWKGof82lSk9qg_YJtgvknVVfFLmkW6UXHwqef4scvaJ1HuXBihjUVPRPN50VZpwXt-KDjF"
+            },
+            "articles": [
+              {
+                "title": "The History Behind Kamala Harris Matching the 191-Year-Old ...",
+                "timeAgo": "7h ago",
+                "source": "TIME",
+                "image": {
+                  "newsUrl": "https://time.com/6294599/kamala-harris-john-calhoun-history-senate-vice-president/",
+                  "source": "TIME",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQRcmWKGof82lSk9qg_YJtgvknVVfFLmkW6UXHwqef4scvaJ1HuXBihjUVPRPN50VZpwXt-KDjF"
+                },
+                "url": "https://time.com/6294599/kamala-harris-john-calhoun-history-senate-vice-president/",
+                "snippet": "Vice President Kamala Harris tied the record with John C. Calhoun for most tiebreaking votes cast as Vice President."
+              },
+              {
+                "title": "Vice President Kamala Harris matches record set by John C. Calhoun for breaking most tie votes in Senate",
+                "timeAgo": "12h ago",
+                "source": "CBS News",
+                "image": {
+                  "newsUrl": "https://www.cbsnews.com/news/kamala-harris-senate-tie-breakng-votes-record-john-calhoun/",
+                  "source": "CBS News",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSBg1xdkzjod4jWbjUzJkUqreSbuAbHZOaJxiM83dZxYbVImMmltzXDUhHC8LZgR5qgVPoFCHSb"
+                },
+                "url": "https://www.cbsnews.com/news/kamala-harris-senate-tie-breakng-votes-record-john-calhoun/",
+                "snippet": "The only other vice president to cast so many was John C. Calhoun, who served as vice president from 1825 to 1832."
+              },
+              {
+                "title": "Kamala Harris makes history with tiebreaking votes in Senate",
+                "timeAgo": "8h ago",
+                "source": "The American Bazaar",
+                "image": {
+                  "newsUrl": "https://www.americanbazaaronline.com/2023/07/13/kamala-harris-makes-history-with-tiebreaking-votes-in-senate-454253/",
+                  "source": "The American Bazaar",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhp-DelBqFTIcgPvHMBYm9MyLEw27v8oj9VfQt4xXXM06rJgsnyDAl6SjgsSLd2fTdnBb9gyyC"
+                },
+                "url": "https://www.americanbazaaronline.com/2023/07/13/kamala-harris-makes-history-with-tiebreaking-votes-in-senate-454253/",
+                "snippet": "First Indian American vice president matches the record John C. Calhoun, vice president from 1825 to 1832."
+              },
+              {
+                "title": "Kamala Harris plans tour energizing key Democratic groups in coming weeks",
+                "timeAgo": "16h ago",
+                "source": "NBC News",
+                "image": {
+                  "newsUrl": "https://www.nbcnews.com/meet-the-press/meetthepressblog/kamala-harris-plans-tour-energizing-key-democratic-groups-coming-weeks-rcna93979",
+                  "source": "NBC News",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3u4XOdeNc5CrSerrQw7GieGt1x3QNAZx0CHshRw04Xhwu8QH_VT6WNaIcyxAcSme08HgtJBOp"
+                },
+                "url": "https://www.nbcnews.com/meet-the-press/meetthepressblog/kamala-harris-plans-tour-energizing-key-democratic-groups-coming-weeks-rcna93979",
+                "snippet": "Vice President Kamala Harris is kicking off a month-long series of high-profile events mobilizing key voting groups, with an itinerary previewing her 2024&nbsp;..."
+              },
+              {
+                "title": "Vice President Kamala Harris coming to Boston for NAACP National ...",
+                "timeAgo": "13h ago",
+                "source": "NBC10 Boston",
+                "image": {
+                  "newsUrl": "https://www.nbcboston.com/news/local/vice-president-kamala-harris-coming-to-boston-for-naacp-national-convention/3088350/",
+                  "source": "NBC10 Boston",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcS_utfXA1h34IWT3AYplvPyJgeR4fHVDZwDu9SOzr9879SztVs2BSRqNxpXZjlVz2WssTV2y1ht"
+                },
+                "url": "https://www.nbcboston.com/news/local/vice-president-kamala-harris-coming-to-boston-for-naacp-national-convention/3088350/",
+                "snippet": "Vice President Kamala Harris will travel to Boston later this month to attend the NAACP national convention, the White House announced Thursday."
+              },
+              {
+                "title": "Kamala Harris matches record for most tie-breaking votes cast as VP",
+                "timeAgo": "6h ago",
+                "source": "Fox News",
+                "image": {
+                  "newsUrl": "https://www.foxnews.com/politics/kamala-harris-matches-record-most-tie-breaking-votes-cast-vp",
+                  "source": "Fox News",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRxuUxwSOjkAgx6SDozCa3a5qDBx_yUE--bT9WuVdWnWVssXg3uBwHfIWcQ9XQgB46phu1_FW16"
+                },
+                "url": "https://www.foxnews.com/politics/kamala-harris-matches-record-most-tie-breaking-votes-cast-vp",
+                "snippet": "Vice President Kamala Harris made history Wednesday when she cast her 31st tie-breaking vote in the U.S. Senate as vice president, matching the record set&nbsp;..."
+              },
+              {
+                "title": "Vice President Kamala Harris to make fundraising stop in Chicago",
+                "timeAgo": "9h ago",
+                "source": "FOX 32 Chicago",
+                "image": {
+                  "newsUrl": "https://www.fox32chicago.com/news/vice-president-kamala-harris-chicago",
+                  "source": "FOX 32 Chicago",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcS7LQpQwGIMYPaN908Vx5vB1DoT8gtblI9lVOp0Az8pcwu4aHzAPma1ZzpTH00vNBYzqmSzQWVq"
+                },
+                "url": "https://www.fox32chicago.com/news/vice-president-kamala-harris-chicago",
+                "snippet": "The fundraiser will be held at the Gold Coast home of Chicagoan Desiree Rogers with the goal of raising $250,000. Harris arrives in the city July 24. Harris was&nbsp;..."
+              },
+              {
+                "title": "Vice President Kamala Harris matches record for tiebreaking votes ...",
+                "timeAgo": "12h ago",
+                "source": "The Columbian",
+                "image": {
+                  "newsUrl": "https://www.columbian.com/news/2023/jul/13/vice-president-kamala-harris-matches-record-for-tiebreaking-votes-in-senate/",
+                  "source": "The Columbian",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcR3Q50DLRZCnDJ-epB_aAHRjQqYd6Am_hk3pQXy7u7raJXtIG7UOIXfvbMiBzMM2wbcwpBagpC0"
+                },
+                "url": "https://www.columbian.com/news/2023/jul/13/vice-president-kamala-harris-matches-record-for-tiebreaking-votes-in-senate/",
+                "snippet": "WASHINGTON (AP) \u2014 Kamala Harris, who made history as the first woman or person of color to serve as vice president, has made history again by matching the&nbsp;..."
+              },
+              {
+                "title": "Vice President Kamala Harris will address NAACP Convention in ...",
+                "timeAgo": "11h ago",
+                "source": "WBUR",
+                "image": {
+                  "newsUrl": "https://www.wbur.org/news/2023/07/13/kamala-harris-naacp-convention-boston",
+                  "source": "WBUR",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSOw1zF7WnX_tVK8mLiSagyedxi6Jq8SqfaLWJhlevywAp0fSC-ED6RnsVsDUISDCUW84Gvrh-q"
+                },
+                "url": "https://www.wbur.org/news/2023/07/13/kamala-harris-naacp-convention-boston",
+                "snippet": "The Boston Convention and Exhibition Center will host speakers from July 26 through Aug. 1."
+              },
+              {
+                "title": "Afternoon Briefing: Kamala Harris coming to Chicago",
+                "timeAgo": "8h ago",
+                "source": "Chicago Tribune",
+                "image": {
+                  "newsUrl": "https://www.chicagotribune.com/news/ct-aud-cb-afternoon-briefing-newsletter-july13-20230713-yunzqrpphracvdsx3vorgv2jhy-story.html",
+                  "source": "Chicago Tribune",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSDZRp2qhSyXisnOMWDrvEjzys92oHkMz5P2gGFzq4kk8LqWg_U3UwrksHxW-VHgNSKkviChYNY"
+                },
+                "url": "https://www.chicagotribune.com/news/ct-aud-cb-afternoon-briefing-newsletter-july13-20230713-yunzqrpphracvdsx3vorgv2jhy-story.html",
+                "snippet": "Wednesday between 5 to 7 p.m., officials said multiple tornadoes tracked across parts of northeast Illinois, some in proximity to one another, spawned by&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Kamala+Harris#Kamala%20Harris"
+          },
+          {
+            "title": {
+              "query": "Gerber Baby 2023",
+              "exploreLink": "/trends/explore?q=Gerber+Baby+2023&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.axios.com/local/denver/2023/07/13/2023-gerber-baby-colorado-madison-mendoza",
+              "source": "Axios",
+              "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSx6EFm-7w8WsFYpeEmgCFd0JfwwZgt98_3qVR7iBcEHc60zmDtA8iarS7XcPq8gkpOHi8JxsCh"
+            },
+            "articles": [
+              {
+                "title": "The 2023 Gerber Baby is from Colorado",
+                "timeAgo": "14h ago",
+                "source": "Axios",
+                "image": {
+                  "newsUrl": "https://www.axios.com/local/denver/2023/07/13/2023-gerber-baby-colorado-madison-mendoza",
+                  "source": "Axios",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSx6EFm-7w8WsFYpeEmgCFd0JfwwZgt98_3qVR7iBcEHc60zmDtA8iarS7XcPq8gkpOHi8JxsCh"
+                },
+                "url": "https://www.axios.com/local/denver/2023/07/13/2023-gerber-baby-colorado-madison-mendoza",
+                "snippet": "Gerber will feature baby Mendoza in its social media and marketing campaigns."
+              },
+              {
+                "title": "Gerber Baby Contest 2023: See who won this year&#39;s photo search",
+                "timeAgo": "10h ago",
+                "source": "nj.com",
+                "image": {
+                  "newsUrl": "https://www.nj.com/business/2023/07/gerber-baby-contest-2023-see-who-won-this-years-photo-search.html",
+                  "source": "nj.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRllw5zTcEAuzm6bTDZ4KC9_Er1kNuvT2B6Do2CmKF2-dzhlR8QUqXAQbg17TiWAc9IsMgkM2DS"
+                },
+                "url": "https://www.nj.com/business/2023/07/gerber-baby-contest-2023-see-who-won-this-years-photo-search.html",
+                "snippet": "Baby Madison \u201cMaddie\u201d Mendoza of Colorado took home the prize for her joyful spirit, captivating expression and a remarkable story. Baby Maddie will serve on&nbsp;..."
+              },
+              {
+                "title": "Gerber Baby 2023 is a rainbow baby who makes every day &#39;more ...",
+                "timeAgo": "15h ago",
+                "source": "pennlive.com",
+                "image": {
+                  "newsUrl": "https://www.pennlive.com/nation-world/2023/07/gerber-baby-2023-is-a-rainbow-baby-who-makes-every-day-more-meaningful-and-beautiful.html",
+                  "source": "pennlive.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTVm4TaKpfL6wM8vW2dXk9_8WeBj2psMyg4ueAEOgkCeDTe_b9WAJCpgsUc5cG0eff03pbMfIOl"
+                },
+                "url": "https://www.pennlive.com/nation-world/2023/07/gerber-baby-2023-is-a-rainbow-baby-who-makes-every-day-more-meaningful-and-beautiful.html",
+                "snippet": "Madison \u201cMaddie\u201d Mendoza is 10 months old. A throwback photo of Maddie and her mom, Crystal, as a child, \u201cbrought a smile to the judges&#39; faces and perfectly&nbsp;..."
+              },
+              {
+                "title": "The New Gerber Baby Is an Air Force Military Brat",
+                "timeAgo": "6h ago",
+                "source": "Military.com",
+                "image": {
+                  "newsUrl": "https://www.military.com/off-duty/2023/07/13/new-gerber-baby-air-force-military-brat.html",
+                  "source": "Military.com",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQltMjb9LbMmqFDT7c1Dg6NeWP7Jo5-q48wVFGNpVz9UM_ndilWL3UOHVGkaF3rkVN4Gi--8LNA"
+                },
+                "url": "https://www.military.com/off-duty/2023/07/13/new-gerber-baby-air-force-military-brat.html",
+                "snippet": "In her role as chief growing officer for the next year, Maddie will also be invited to serve as chief taste tester for new baby food offerings."
+              },
+              {
+                "title": "Winner of 2023 Gerber Baby search is a rainbow baby: &#39;Brought us ...",
+                "timeAgo": "18h ago",
+                "source": "The Independent",
+                "image": {
+                  "newsUrl": "https://www.independent.co.uk/life-style/health-and-families/maddie-mendoza-gerber-baby-2023-contest-b2374496.html",
+                  "source": "The Independent",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTCjqVgolOZ3Z7HoWHggS6AGomv66wlbfdqR1Gg01giuuUeOMtCN0HdxUEoTyNA1waJgaajhBO6"
+                },
+                "url": "https://www.independent.co.uk/life-style/health-and-families/maddie-mendoza-gerber-baby-2023-contest-b2374496.html",
+                "snippet": "&#39;Rainbow baby&#39; refers a child born after a miscarriage, stillbirth or loss of an infant."
+              },
+              {
+                "title": "Meet Maddie Mendoza, the 2023 Gerber Baby",
+                "timeAgo": "10h ago",
+                "source": "Simplemost",
+                "image": {
+                  "newsUrl": "https://www.simplemost.com/colorado-infant-maddie-mendoza-named-2023-gerber-baby/",
+                  "source": "Simplemost",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQZNMt_4SIkdaP6uHPla16m7Lluvdw7y5tJ7aruUBKwmL1uLHTfyMFxUKkatMLnpPMwUUysFrHn"
+                },
+                "url": "https://www.simplemost.com/colorado-infant-maddie-mendoza-named-2023-gerber-baby/",
+                "snippet": "Gerber found its newest Gerber Baby, 10-month-old Maddie Mendoza from Colorado Springs, Colorado, after a 10-day search."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Gerber+Baby+2023#Gerber%20Baby%202023"
+          },
+          {
+            "title": {
+              "query": "Burmese pythons",
+              "exploreLink": "/trends/explore?q=Burmese+pythons&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.npr.org/2023/07/13/1187497592/record-breaking-burmese-python-longest-florida",
+              "source": "NPR",
+              "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7Owjq-wSgV1wRzKv_PzY6KlasVNy9HACn6ayfyDqRcppMF1Nygy5B0ci8CZIOsteNZqLEvPr_"
+            },
+            "articles": [
+              {
+                "title": "A record-breaking Burmese python \u2014 as long as a giraffe is tall \u2014 caught in Florida",
+                "timeAgo": "8h ago",
+                "source": "NPR",
+                "image": {
+                  "newsUrl": "https://www.npr.org/2023/07/13/1187497592/record-breaking-burmese-python-longest-florida",
+                  "source": "NPR",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcT7Owjq-wSgV1wRzKv_PzY6KlasVNy9HACn6ayfyDqRcppMF1Nygy5B0ci8CZIOsteNZqLEvPr_"
+                },
+                "url": "https://www.npr.org/2023/07/13/1187497592/record-breaking-burmese-python-longest-florida",
+                "snippet": "The snake, stretching 19 feet, was caught in the Big Cypress National Preserve. The invasive species runs rampant through southern Florida, wreaking havoc&nbsp;..."
+              },
+              {
+                "title": "Watch a Florida man wrestle a record-breaking 19-foot-long Burmese python: \"Giant is an understatement\"",
+                "timeAgo": "13h ago",
+                "source": "CBS News",
+                "image": {
+                  "newsUrl": "https://www.cbsnews.com/news/record-breaking-burmese-python-captured-florida-19-feet-long/",
+                  "source": "CBS News",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSo1bayD78yeSl_aPWs6G1R8jm-i1Uo0MkFwktIRT2Zrx23UmR_FYwVGN7wh2wh76gUD5TnFC9V"
+                },
+                "url": "https://www.cbsnews.com/news/record-breaking-burmese-python-captured-florida-19-feet-long/",
+                "snippet": "A Florida duo known as the &quot;Glades Boys&quot; have captured the state&#39;s longest-ever recorded Burmese python, measuring 19 feet long and weighing 125 pounds."
+              },
+              {
+                "title": "Record-breaking Burmese python caught in Florida",
+                "timeAgo": "6h ago",
+                "source": "Bay News 9",
+                "image": {
+                  "newsUrl": "https://www.baynews9.com/fl/tampa/news/2023/07/13/conservancy-measures-longest-burmese-python-ever-captured",
+                  "source": "Bay News 9",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTjOX1C7E0ZnqgSJtMTOXN9awZeKflgTkD9EUchRrkeRxQh3SYwkbqPccjZ6h71xK5Zh72Wrmun"
+                },
+                "url": "https://www.baynews9.com/fl/tampa/news/2023/07/13/conservancy-measures-longest-burmese-python-ever-captured",
+                "snippet": "The longest Burmese python previously recorded in Florida was 18 feet 9 inches. From left to right: Stephen Gauta, Jake Waleri (Conservancy of Southwest Florida)."
+              },
+              {
+                "title": "Florida&#39;s longest-ever Burmese python captured near Everglades",
+                "timeAgo": "11h ago",
+                "source": "WKMG News 6 & ClickOrlando",
+                "image": {
+                  "newsUrl": "https://www.clickorlando.com/news/local/2023/07/13/floridas-longest-ever-burmese-python-captured-near-everglades/",
+                  "source": "WKMG News 6 & ClickOrlando",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSksKZdwsst9NZLJbaIs4KN6QqnVnApr5WWjBIuIh4VAbIWG2TarueJnwmNs5YQP_a33xQH4E5g"
+                },
+                "url": "https://www.clickorlando.com/news/local/2023/07/13/floridas-longest-ever-burmese-python-captured-near-everglades/",
+                "snippet": "COLLIER COUNTY, Fla. \u2013 The longest documented Burmese python in Florida was captured in Big Cypress National Reserve on Monday. The snake measured exactly 19&nbsp;..."
+              },
+              {
+                "title": "19-foot invasive Burmese python captured in Florida",
+                "timeAgo": "9h ago",
+                "source": "KRTV Great Falls News",
+                "image": {
+                  "newsUrl": "https://www.krtv.com/19-foot-invasive-burmese-python-captured-in-florida",
+                  "source": "KRTV Great Falls News",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQjSTdftlwzBJfaTEHZ8OgSDLX6o1bdB0VvvdqTC9bXaLYksY3HrtsprNHRgLq0A9YrIXFssrbq"
+                },
+                "url": "https://www.krtv.com/19-foot-invasive-burmese-python-captured-in-florida",
+                "snippet": "Officials said it was the longest Burmese python ever captured in the state, which has a few too many of the snakes in the wild."
+              },
+              {
+                "title": "Massive python wrestled by hunters at 1 a.m. sets Florida record. &#39;It ...",
+                "timeAgo": "9h ago",
+                "source": "Miami Herald",
+                "image": {
+                  "newsUrl": "https://www.miamiherald.com/news/state/florida/article277280358.html",
+                  "source": "Miami Herald",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTRIffXSuKDdxy0Sccka3tK69Xlm7ndugVLFKM5mQ3_CaCpzGV_4tuN4VedzEm2x2T83tntXT2v"
+                },
+                "url": "https://www.miamiherald.com/news/state/florida/article277280358.html",
+                "snippet": "A record 19-foot invasive Burmese python was captured by hunters in the Big Cypress National Preserve in South Florida."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Burmese+pythons#Burmese%20pythons"
+          },
+          {
+            "title": {
+              "query": "Small bowel obstruction",
+              "exploreLink": "/trends/explore?q=Small+bowel+obstruction&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.cbsnews.com/news/lisa-marie-presley-small-bowel-obstruction-cause-of-death/",
+              "source": "CBS News",
+              "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRis9FSUSFjiSkhxyHiIVopvT9j13VCEYKAtdQ0YhA5Mz5Iye_ReplGcxJmjVkCzZYGrGI8DMaB"
+            },
+            "articles": [
+              {
+                "title": "Lisa Marie Presley died of small bowel obstruction, medical examiner says",
+                "timeAgo": "3h ago",
+                "source": "CBS News",
+                "image": {
+                  "newsUrl": "https://www.cbsnews.com/news/lisa-marie-presley-small-bowel-obstruction-cause-of-death/",
+                  "source": "CBS News",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRis9FSUSFjiSkhxyHiIVopvT9j13VCEYKAtdQ0YhA5Mz5Iye_ReplGcxJmjVkCzZYGrGI8DMaB"
+                },
+                "url": "https://www.cbsnews.com/news/lisa-marie-presley-small-bowel-obstruction-cause-of-death/",
+                "snippet": "Presley, the only child of Elvis and Priscilla Presley, died Jan. 12 at the age of 54."
+              },
+              {
+                "title": "Lisa Marie Presley died from small bowel obstruction caused by bariatric surgery, coroner says",
+                "timeAgo": "3h ago",
+                "source": "ABC News",
+                "image": {
+                  "newsUrl": "https://abcnews.go.com/Entertainment/wireStory/lisa-marie-presley-died-effects-small-bowel-obstruction-101233006",
+                  "source": "ABC News",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRuunIhJcNG38rMA3vvLTYmQIYiFEU5QEBvx6qfsQ60HP7BnPlq4aG69D_Ey1FFfm29uuP7XLh7"
+                },
+                "url": "https://abcnews.go.com/Entertainment/wireStory/lisa-marie-presley-died-effects-small-bowel-obstruction-101233006",
+                "snippet": "Authorities say Lisa Marie Presley died from complications from bariatric surgery she had several years ago."
+              },
+              {
+                "title": "Lisa Marie Presley died from small bowel obstruction, medical ...",
+                "timeAgo": "4h ago",
+                "source": "KABC-TV",
+                "image": {
+                  "newsUrl": "https://abc7.com/lisa-marie-presley-los-angeles-medical-examiner-graceland-presly-cause-of-death/13499564/",
+                  "source": "KABC-TV",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTy8DU0bY5wHBM0eutaaEIpRCdJHqE8VZ7y0PwWZKgF-ytpZcVvMS7qMr8PVsbgJcnOecHb85c5"
+                },
+                "url": "https://abc7.com/lisa-marie-presley-los-angeles-medical-examiner-graceland-presly-cause-of-death/13499564/",
+                "snippet": "The Jan. 12 death at age 54 of the singer, songwriter and heir of Elvis Presley was ruled as being from natural causes, but a previous weight loss procedure was&nbsp;..."
+              },
+              {
+                "title": "Lisa Marie Presley&#39;s Cause of Death Revealed to Be Small Bowel ...",
+                "timeAgo": "1h ago",
+                "source": "PEOPLE.com",
+                "image": {
+                  "newsUrl": "https://people.com/lisa-marie-presley-cause-death-small-bowel-obstruction-7502488",
+                  "source": "PEOPLE.com",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTP9sIytyTTCnFmz7jHhE30d-bjrg97z7DBJIiOSXIr9eighNL_rBUVnw7Ueyq3DkCz3GvuLI7n"
+                },
+                "url": "https://people.com/lisa-marie-presley-cause-death-small-bowel-obstruction-7502488",
+                "snippet": "The singer, who died on Jan. 12 at age 54, suffered adhesions caused by a known longterm complication of bariatric surgery she underwent years ago,&nbsp;..."
+              },
+              {
+                "title": "Lisa Marie Presley, daughter of Elvis, died of small bowel obstruction after bariatric surgery",
+                "timeAgo": "2h ago",
+                "source": "USA TODAY",
+                "image": {
+                  "newsUrl": "https://www.usatoday.com/story/entertainment/celebrities/2023/07/13/lisa-marie-presley-cause-of-death-small-bowel-obstruction/70412226007/",
+                  "source": "USA TODAY",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQUZ5yq-dPdNTyvb2tAyUu_09bNu0sQUbqAHkXoHPxyGPnBc8KPR0dxwZJPq-qJculYo22GCRW8"
+                },
+                "url": "https://www.usatoday.com/story/entertainment/celebrities/2023/07/13/lisa-marie-presley-cause-of-death-small-bowel-obstruction/70412226007/",
+                "snippet": "Lisa Marie Presley, the late daughter of rock icon Elvis Presley, died of sequelae of small bowel obstruction, an intestinal blockage."
+              },
+              {
+                "title": "Lisa Marie Presley died of small bowel obstruction - coroner",
+                "timeAgo": "37m ago",
+                "source": "Reuters",
+                "image": {
+                  "newsUrl": "https://www.reuters.com/world/us/lisa-marie-presley-died-small-bowel-obstruction-coroner-2023-07-14/",
+                  "source": "Reuters",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRNCVywVr1SBvMHAjXOTechXgE2FUVC7OvaWI-XbVaAVt0r-DBBso_08Mw3bIiErRAG90rQhpyd"
+                },
+                "url": "https://www.reuters.com/world/us/lisa-marie-presley-died-small-bowel-obstruction-coroner-2023-07-14/",
+                "snippet": "Lisa Marie Presley, the only daughter of Elvis Presley, died of a small bowel obstruction as a delayed consequence of bariatric weight loss surgery,&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Small+bowel+obstruction#Small%20bowel%20obstruction"
+          },
+          {
+            "title": {
+              "query": "Opill",
+              "exploreLink": "/trends/explore?q=Opill&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.cnn.com/2023/07/13/health/fda-otc-birth-control-opill/index.html",
+              "source": "CNN",
+              "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBU_p_kcKoGQN7sBLV56jiZ_m5NEZxcnko1stLx9YufNcxXMJcXXdEcBUcMv7nX3xWvPlrhiGF"
+            },
+            "articles": [
+              {
+                "title": "FDA approves first over-the-counter birth control pill",
+                "timeAgo": "12h ago",
+                "source": "CNN",
+                "image": {
+                  "newsUrl": "https://www.cnn.com/2023/07/13/health/fda-otc-birth-control-opill/index.html",
+                  "source": "CNN",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQBU_p_kcKoGQN7sBLV56jiZ_m5NEZxcnko1stLx9YufNcxXMJcXXdEcBUcMv7nX3xWvPlrhiGF"
+                },
+                "url": "https://www.cnn.com/2023/07/13/health/fda-otc-birth-control-opill/index.html",
+                "snippet": "The US Food and Drug Administration on Thursday approved the birth control pill Opill to be available over-the-counter, the first nonprescription birth&nbsp;..."
+              },
+              {
+                "title": "FDA Approves First Nonprescription Daily Oral Contraceptive",
+                "timeAgo": "14h ago",
+                "source": "FDA.gov",
+                "image": {
+                  "newsUrl": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive",
+                  "source": "FDA.gov",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQH1yCB3EqxBnLfiIEgbAzVPan_Ft_AhKy_-6n0vGsOjcdOK3TeppZn_E7rgzxUTrYhqi7GCiRT"
+                },
+                "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive",
+                "snippet": "The FDA approved Opill (norgestrel) tablet for nonprescription use to prevent pregnancy\u2014 the first daily oral contraceptive approved for use in the U.S.&nbsp;..."
+              },
+              {
+                "title": "Opill: The First Over-the-Counter Daily Oral Contraceptive",
+                "timeAgo": "5h ago",
+                "source": "Johns Hopkins Bloomberg School of Public Health",
+                "image": {
+                  "newsUrl": "https://publichealth.jhu.edu/2023/opill-the-first-over-the-counter-daily-oral-contraceptive",
+                  "source": "Johns Hopkins Bloomberg School of Public Health",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcT6zYfm9YDSRNYz5lOfGfUihTFZ5gGrGSGY21_2VKBavaHqKhHiExPoOQ_AOptCNqHzkplsJfqV"
+                },
+                "url": "https://publichealth.jhu.edu/2023/opill-the-first-over-the-counter-daily-oral-contraceptive",
+                "snippet": "The FDA&#39;s approval of Opill, the first OTC oral contraceptive pill, is coming at an opportune time. But will it be affordable and, most importantly,&nbsp;..."
+              },
+              {
+                "title": "FDA Nod Makes Perrigo&#39;s Opill the First Oral Contraceptive to Switch ...",
+                "timeAgo": "9h ago",
+                "source": "MedCity News",
+                "image": {
+                  "newsUrl": "https://medcitynews.com/2023/07/fda-approval-opill-otc-birth-control-contraception-perrigo/",
+                  "source": "MedCity News",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQZnCNdjjuO2vJvEfRw0hGMuVwUOyHjjekGJwJn0MJJEPZKyGYsqHuiPKk0A1CZrftc5v35XivK"
+                },
+                "url": "https://medcitynews.com/2023/07/fda-approval-opill-otc-birth-control-contraception-perrigo/",
+                "snippet": "The FDA also said Opill should not be used together with other hormonal birth control products, nor should it be used for emergency contraception. \u201cOverall, I&nbsp;..."
+              },
+              {
+                "title": "FDA approves Opill, the first daily birth control pill without a prescription",
+                "timeAgo": "12h ago",
+                "source": "NPR",
+                "image": {
+                  "newsUrl": "https://www.npr.org/2023/07/13/1187460902/opill-fda-approve-otc-birth-control-pill",
+                  "source": "NPR",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQXOeye6jU-Q47h0Xs_Wlx7TVczdoSYYaa258aDr42g6-v05disJRKIl_WLE_MGt523gZraNDYZ"
+                },
+                "url": "https://www.npr.org/2023/07/13/1187460902/opill-fda-approve-otc-birth-control-pill",
+                "snippet": "The Food and Drug Administration approved a daily oral contraceptive pill for use without a prescription on Thursday, a landmark event that comes as some&nbsp;..."
+              },
+              {
+                "title": "FDA approves first over-the-counter birth control pill in the U.S.",
+                "timeAgo": "13h ago",
+                "source": "NBC News",
+                "image": {
+                  "newsUrl": "https://www.nbcnews.com/health/health-news/hormonal-birth-control-fda-nonprescription-contraceptive-pill-rcna93958",
+                  "source": "NBC News",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTLKk7GZYs3Mi61a0UgDOb6bU7o4fThg1Ajau6prTlHorGfN3h_esK38FsBwJ41xiaENeejZGBc"
+                },
+                "url": "https://www.nbcnews.com/health/health-news/hormonal-birth-control-fda-nonprescription-contraceptive-pill-rcna93958",
+                "snippet": "The FDA has approved the oral contraceptive Opill. The birth control pill does not require a prescription for any users of reproductive age,&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Opill#Opill"
+          },
+          {
+            "title": {
+              "query": "Babyface",
+              "exploreLink": "/trends/explore?q=Babyface&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.the-sun.com/entertainment/8589871/who-babyface/",
+              "source": "The Sun",
+              "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJvoL8RosMdsBLNa3g75paV57_e0UEIMI_LpCXwUhekIfvIweNPmdC3Lh3eP74t6xrRrJ8elnJ"
+            },
+            "articles": [
+              {
+                "title": "Who is Babyface?...",
+                "timeAgo": "16h ago",
+                "source": "The Sun",
+                "image": {
+                  "newsUrl": "https://www.the-sun.com/entertainment/8589871/who-babyface/",
+                  "source": "The Sun",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRJvoL8RosMdsBLNa3g75paV57_e0UEIMI_LpCXwUhekIfvIweNPmdC3Lh3eP74t6xrRrJ8elnJ"
+                },
+                "url": "https://www.the-sun.com/entertainment/8589871/who-babyface/",
+                "snippet": "MUSIC legend Babyface has hit the headlines in 2023 as he works on a new song with Kim Kardashian.But who is the artist, what are his most popular son."
+              },
+              {
+                "title": "Babyface&#39;s &quot;As A Matter Of Fact&quot; Is His First No. 1 In Over 25 Years",
+                "timeAgo": "6h ago",
+                "source": "Vibe",
+                "image": {
+                  "newsUrl": "https://www.vibe.com/music/music-news/babyface-as-a-matter-of-fact-no-1-billboard-1234772326/",
+                  "source": "Vibe",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQGwrAj1zG3gFmM18aM5zYD0ZH3aCg4Gy1omDdJw_RcwCvsNPILVk-obUYBapSpsYWRMee7QIav"
+                },
+                "url": "https://www.vibe.com/music/music-news/babyface-as-a-matter-of-fact-no-1-billboard-1234772326/",
+                "snippet": "After 26 years, Babyface is back atop the Billboard Adult R&amp;B Airplay chart as a solo artist with his enchanting love song, \u201cAs A Matter Of Fact."
+              },
+              {
+                "title": "New soulful tunes from Will Downing and Babyface",
+                "timeAgo": "11h ago",
+                "source": "KMUW",
+                "image": {
+                  "newsUrl": "https://www.kmuw.org/show/soulsations/2023-07-13/new-soulful-tunes-from-will-downing",
+                  "source": "KMUW",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJW1_cgir3eAeywer-MfbGuD5_JXC9cU-vwR6Iq1GS6SKXbXTsiL82dXdj0H8WExRIqxN9BSXf"
+                },
+                "url": "https://www.kmuw.org/show/soulsations/2023-07-13/new-soulful-tunes-from-will-downing",
+                "snippet": "Also, the inviting sounds of The Brothers Johnson, The Temptations and Natalie Cole. Multi-Grammy award winning producer and songwriter, Kevin Bond, talks about&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Babyface#Babyface"
+          },
+          {
+            "title": {
+              "query": "Aspartame",
+              "exploreLink": "/trends/explore?q=Aspartame&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.npr.org/sections/health-shots/2023/07/13/1187284010/world-health-organization-is-aspartame-carcinogenic",
+              "source": "NPR",
+              "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRDxGypV-69EbCz9szrvcy8iSvtbGsSgkYHJmoARQfbnliIzXxZI5iJuoZUsSnGLeL6hRwfSdZf"
+            },
+            "articles": [
+              {
+                "title": "WHO says aspartame is a 'possible carcinogen.' The FDA disagrees",
+                "timeAgo": "4h ago",
+                "source": "NPR",
+                "image": {
+                  "newsUrl": "https://www.npr.org/sections/health-shots/2023/07/13/1187284010/world-health-organization-is-aspartame-carcinogenic",
+                  "source": "NPR",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRDxGypV-69EbCz9szrvcy8iSvtbGsSgkYHJmoARQfbnliIzXxZI5iJuoZUsSnGLeL6hRwfSdZf"
+                },
+                "url": "https://www.npr.org/sections/health-shots/2023/07/13/1187284010/world-health-organization-is-aspartame-carcinogenic",
+                "snippet": "Moderate consumption of aspartame is OK, scientists say. But heavy consumers may want to reduce their intake. The WHO says aspartame may &quot;possibly&quot; cause&nbsp;..."
+              },
+              {
+                "title": "Aspartame Is a Possible Cause of Cancer in Humans, a W.H.O. Agency Says",
+                "timeAgo": "4h ago",
+                "source": "The New York Times",
+                "image": {
+                  "newsUrl": "https://www.nytimes.com/2023/07/13/health/aspartame-cancer-who-sweetener.html",
+                  "source": "The New York Times",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRtp49nXzg6znxQ6u0UsYGmkomMd2EcbmEk1wRNQR51TM3v57pnQT7nCfE4Q-P_pX5WIXarjqZ8"
+                },
+                "url": "https://www.nytimes.com/2023/07/13/health/aspartame-cancer-who-sweetener.html",
+                "snippet": "A World Health Organization agency declared on Thursday that aspartame, an artificial sweetener widely used in diet drinks and low-sugar foods,&nbsp;..."
+              },
+              {
+                "title": "WHO declares widely used sweetener aspartame a possible cancer ...",
+                "timeAgo": "4h ago",
+                "source": "CNN",
+                "image": {
+                  "newsUrl": "https://www.cnn.com/2023/07/13/health/aspartame-who-possible-cancer-cause/index.html",
+                  "source": "CNN",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ10HAnw6XKxqb91FmziA2ptyZhWSP0eWa9JBZLcLpGZmTRHzqUCVnjQ38y2UdWNLQf467lD9srLg"
+                },
+                "url": "https://www.cnn.com/2023/07/13/health/aspartame-who-possible-cancer-cause/index.html",
+                "snippet": "\ufeffSodas like Diet Coke, Coke Zero and Pepsi Zero Sugar have aspartame, as do many low-calorie coffee sweeteners like Equal and NutraSweet, and some juices. In&nbsp;..."
+              },
+              {
+                "title": "WHO says aspartame might cause cancer \u2014 but that most adult ...",
+                "timeAgo": "4h ago",
+                "source": "STAT",
+                "image": {
+                  "newsUrl": "https://www.statnews.com/2023/07/13/who-says-aspartame-might-cause-cancer-but-that-most-adult-consumers-dont-need-to-worry/",
+                  "source": "STAT",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSR-oPcTCcHzRd5kJytg2KvNj5N15fwnMlbRDxmt_cPd2kPJOhovpENbIqFLqojGb497UEjxJTz"
+                },
+                "url": "https://www.statnews.com/2023/07/13/who-says-aspartame-might-cause-cancer-but-that-most-adult-consumers-dont-need-to-worry/",
+                "snippet": "WASHINGTON \u2014 Aspartame, the popular artificial sweetener in diet sodas and chewing gums, may possibly cause cancer \u2014 but the risk appears to be very low for&nbsp;..."
+              },
+              {
+                "title": "WHO cancer arm deems aspartame 'possible carcinogen'; consumption limits unchanged",
+                "timeAgo": "2h ago",
+                "source": "Reuters",
+                "image": {
+                  "newsUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-cancer-arm-deems-aspartame-possible-carcinogen-consumption-limits-unchanged-2023-07-13/",
+                  "source": "Reuters",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRSAGv1dT9lneUzNxK6qAJ_w68NuBIohkUordvf4mB8GKNfQH013T1Seyaxhug9P4Uk7olrmdxu"
+                },
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-cancer-arm-deems-aspartame-possible-carcinogen-consumption-limits-unchanged-2023-07-13/",
+                "snippet": "The sweetener aspartame is a &quot;possible carcinogen&quot; but it remains safe to consume at already-agreed levels, two groups linked to the World Health&nbsp;..."
+              },
+              {
+                "title": "WHO decision on aspartame could hurt diet soda sales or lead to ...",
+                "timeAgo": "4h ago",
+                "source": "CNBC",
+                "image": {
+                  "newsUrl": "https://www.cnbc.com/2023/07/13/who-aspartame-decision-could-hurt-diet-soda-sales.html",
+                  "source": "CNBC",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQBwlqZUch6R_hCLHGb68VRJJ7tXX9Yf6iF6rpix38nGvlzd_Ry4zqb8WYr1ffqR5i80Im3bSKm"
+                },
+                "url": "https://www.cnbc.com/2023/07/13/who-aspartame-decision-could-hurt-diet-soda-sales.html",
+                "snippet": "Coca-Cola, PepsiCo and Keurig Dr Pepper may decide to change their formulas and swap out aspartame for another sweetener."
+              },
+              {
+                "title": "Breaking Up With Diet Soda? Here Are 11 Aspartame-Free Alternatives.",
+                "timeAgo": "4h ago",
+                "source": "The New York Times",
+                "image": {
+                  "newsUrl": "https://www.nytimes.com/2023/07/13/dining/drinks/aspartame-artificial-sweetener-free-drinks.html",
+                  "source": "The New York Times",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcS_-sWNv0tqMAMrtKd5v7_szQ0s2lQh3t0m9b17zyf1VrFfgIkhYr59nyxZ79nxydWExmmYJdQA"
+                },
+                "url": "https://www.nytimes.com/2023/07/13/dining/drinks/aspartame-artificial-sweetener-free-drinks.html",
+                "snippet": "If the World Health Organization&#39;s warning about the artificial sweetener has you worried, try these other refreshers."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Aspartame#Aspartame"
+          },
+          {
+            "title": {
+              "query": "Gold Rush: White Water Fred Hurt",
+              "exploreLink": "/trends/explore?q=Gold+Rush:+White+Water+Fred+Hurt&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.latimes.com/entertainment-arts/tv/story/2023-07-13/dakota-fred-hurt-dead-gold-rush-white-water",
+              "source": "Los Angeles Times",
+              "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRugZ2nCHc7gRAScw7v43cyf2oCpDjA8YcysYjSxBpThm0jwqR-rDnvoGTWbloHvx2-DeR6k8Tj"
+            },
+            "articles": [
+              {
+                "title": "Dakota Fred Hurt, &#39;Gold Rush: White Water&#39; star, dies at 80",
+                "timeAgo": "8h ago",
+                "source": "Los Angeles Times",
+                "image": {
+                  "newsUrl": "https://www.latimes.com/entertainment-arts/tv/story/2023-07-13/dakota-fred-hurt-dead-gold-rush-white-water",
+                  "source": "Los Angeles Times",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRugZ2nCHc7gRAScw7v43cyf2oCpDjA8YcysYjSxBpThm0jwqR-rDnvoGTWbloHvx2-DeR6k8Tj"
+                },
+                "url": "https://www.latimes.com/entertainment-arts/tv/story/2023-07-13/dakota-fred-hurt-dead-gold-rush-white-water",
+                "snippet": "Fred &#39;Dakota&#39; Hurt, the rugged white-water gold miner who appeared in Discovery&#39;s docuseries &#39;Gold Rush: White Water,&#39; has died after a short battle with&nbsp;..."
+              },
+              {
+                "title": "&#39;Gold Rush: White Water&#39; star &#39;Dakota&#39; Fred Hurt dies at 80",
+                "timeAgo": "8h ago",
+                "source": "KPRC Click2Houston",
+                "image": {
+                  "newsUrl": "https://www.click2houston.com/news/local/2023/07/13/gold-rush-white-water-star-dakota-fred-hurt-dies-at-80/",
+                  "source": "KPRC Click2Houston",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSI8xKPqYC20hLiH46wjYmvW2IhlAh2qng2pUTIhz3y79lJ5sF5qu09P_B48Gq2jdkiZGxszG3L"
+                },
+                "url": "https://www.click2houston.com/news/local/2023/07/13/gold-rush-white-water-star-dakota-fred-hurt-dies-at-80/",
+                "snippet": "Dakota\u201d Fred Hurt, face of \u201cGold Rush: White Water\u201d reality show, has died Tuesday morning. He was 80 years old."
+              },
+              {
+                "title": "R.I.P. Dakota Fred Hurt: &#39;Gold Rush&#39; and &#39;Gold Rush: White Water ...",
+                "timeAgo": "13h ago",
+                "source": "Decider",
+                "image": {
+                  "newsUrl": "https://decider.com/2023/07/13/dakota-fred-hurt-gold-rush-dead-80/",
+                  "source": "Decider",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSl9-TUWvp2OthRCEkOBOnXXjP7_X7TOUbX7_CRlOYCI3OxVDfgx2aAiUAt3h_esrfwcwlrpbcl"
+                },
+                "url": "https://decider.com/2023/07/13/dakota-fred-hurt-gold-rush-dead-80/",
+                "snippet": "He was 80 years old. The famed gold miner died Tuesday (July 11), just one day after his 80th birthday and only four months after he was diagnosed with stage 4&nbsp;..."
+              },
+              {
+                "title": "&#39;Dakota&#39; Fred Hurt, Star of Reality Show &#39;Gold Rush,&#39; Dies at 80",
+                "timeAgo": "13h ago",
+                "source": "TV Insider",
+                "image": {
+                  "newsUrl": "https://www.tvinsider.com/1098879/dakota-fred-hurt-star-of-reality-show-gold-rush-dies-at-80/",
+                  "source": "TV Insider",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRBpxVpaNL1w8_c_DNQs8WnSZUdebzIK87vfj61mgGDB1TUJvSHRwCpqUinqGNVotc8XXw6m_Ea"
+                },
+                "url": "https://www.tvinsider.com/1098879/dakota-fred-hurt-star-of-reality-show-gold-rush-dies-at-80/",
+                "snippet": "The veteran miner passed after a battle with brain cancer."
+              },
+              {
+                "title": "&#39;Gold Rush&#39; star &#39;Dakota&#39; Fred Hurt dead at 80",
+                "timeAgo": "10h ago",
+                "source": "Fox News",
+                "image": {
+                  "newsUrl": "https://www.foxnews.com/entertainment/gold-rush-star-dakota-fred-hurt-dead-80",
+                  "source": "Fox News",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTwiThiwmw1fiZzY5h0X_4ln2M_tiSe76JHeYHNUjoq-hHzsEHHtPQ8XQpcjqP4enblDrmABztV"
+                },
+                "url": "https://www.foxnews.com/entertainment/gold-rush-star-dakota-fred-hurt-dead-80",
+                "snippet": "&quot;Gold Rush: White Water&quot; star and veteran gold prospector &quot;Dakota&quot; Fred Hurt died Tuesday at the age of 80 following a battle with brain cancer."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Gold+Rush:+White+Water+Fred+Hurt#Gold%20Rush:%20White%20Water%20Fred%20Hurt"
+          },
+          {
+            "title": {
+              "query": "The Boys",
+              "exploreLink": "/trends/explore?q=The+Boys&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://collider.com/the-boys-black-noir-deserved-better/",
+              "source": "Collider.com",
+              "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3r9ZI2sE1EimrWThJDRaNhnZL-WaD-zZGZY_NbYRdIZ4MnYwIDmbl1ZFwm6bo09kxdwtgFUtq"
+            },
+            "articles": [
+              {
+                "title": "This Character on &#39;The Boys&#39; Deserved Better",
+                "timeAgo": "49m ago",
+                "source": "Collider.com",
+                "image": {
+                  "newsUrl": "https://collider.com/the-boys-black-noir-deserved-better/",
+                  "source": "Collider.com",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ3r9ZI2sE1EimrWThJDRaNhnZL-WaD-zZGZY_NbYRdIZ4MnYwIDmbl1ZFwm6bo09kxdwtgFUtq"
+                },
+                "url": "https://collider.com/the-boys-black-noir-deserved-better/",
+                "snippet": "The Boys killed off Black Noir just as he was becoming the most compelling member of the Seven."
+              },
+              {
+                "title": "&#39;The Boys&#39; College-Based Spinoff &#39;Gen V&#39; Just Confirmed Its Release ...",
+                "timeAgo": "9h ago",
+                "source": "UPROXX",
+                "image": {
+                  "newsUrl": "https://uproxx.com/tv/the-boys-gen-v-release-date-new-footage/",
+                  "source": "UPROXX",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSWE6jTmwxqLpPopasSbps4odFz-87jx0P-_Ztg29koQ6yONNYdgCSzPJRrW3ERIUxVJo8_93Di"
+                },
+                "url": "https://uproxx.com/tv/the-boys-gen-v-release-date-new-footage/",
+                "snippet": "A sizzle reel for Amazon Prime Video confirms a release window for &#39;The Boys&#39; spinoff &#39;Gen V&#39; while dropping new footage."
+              },
+              {
+                "title": "&#39;The Boys&#39; Spin-Off &#39;Gen V&#39; Sets Fall Release Window",
+                "timeAgo": "10h ago",
+                "source": "Collider.com",
+                "image": {
+                  "newsUrl": "https://collider.com/gen-v-series-release-window/",
+                  "source": "Collider.com",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTcJMR58oa_19ql1bHUJ0qB_5xmYUCYIrKOYljLHt4jFmp2_pkkd_3Wv0qC6OGuyFcE5q0FgPXE"
+                },
+                "url": "https://collider.com/gen-v-series-release-window/",
+                "snippet": "The Boys spin-off series Gen V is preparing to be in attendance on Prime Video early this fall."
+              },
+              {
+                "title": "The Boys: Gen V Spin-off Show Release Window Gets Announced",
+                "timeAgo": "8h ago",
+                "source": "The Direct",
+                "image": {
+                  "newsUrl": "https://thedirect.com/article/the-boys-gen-v-spin-off-show-release-window",
+                  "source": "The Direct",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSrJfGhAQSUv_2XsIdV7YXt0EbbaojZbWduBojpKCwu3-g6CTkb237kHFlg8FwuL7hOprmSk0gM"
+                },
+                "url": "https://thedirect.com/article/the-boys-gen-v-spin-off-show-release-window",
+                "snippet": "Gen V is the second spin-off from The Boys franchise developed by Craig Rosenberg, Evan Goldberg, and Eric Kripke. The series is based on The Boys Volume 4 of&nbsp;..."
+              },
+              {
+                "title": "The Boys Spin-Off Gen V Has a Release Date - IGN",
+                "timeAgo": "10h ago",
+                "source": "IGN",
+                "image": {
+                  "newsUrl": "https://www.ign.com/articles/the-boys-spin-off-gen-v-arrives-september",
+                  "source": "IGN",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTU637JJ3hFtmaKgfHVP3iMnJmCfhEbqg-eNAPgkzHkpYylxqTdV3JMaPVix-PfvFbYW8HRzDFZ"
+                },
+                "url": "https://www.ign.com/articles/the-boys-spin-off-gen-v-arrives-september",
+                "snippet": "The Boys&#39; college-based spin-off series Gen V will premiere on Prime Video in September."
+              },
+              {
+                "title": "The Boys Spinoff Gen V Release Date Gets Promising Update",
+                "timeAgo": "9h ago",
+                "source": "Game Rant",
+                "image": {
+                  "newsUrl": "https://gamerant.com/the-boys-spinoff-gen-v-release-date-update-amazon-prime-video/",
+                  "source": "Game Rant",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRDa4fmdEU-40PIhB1_X_0XYpr0_ot06OM3cI0RnT-skFW_cblleuEMp0GWdCJSn8m6cbCSXLXv"
+                },
+                "url": "https://gamerant.com/the-boys-spinoff-gen-v-release-date-update-amazon-prime-video/",
+                "snippet": "The Boys spinoff Gen V finally has some premiere date news and fans won&#39;t have to wait long to watch the awaited Amazon Prime Video show."
+              },
+              {
+                "title": "Gen V Prime Video Release Date Window Revealed for The Boys ...",
+                "timeAgo": "11h ago",
+                "source": "ComingSoon.net",
+                "image": {
+                  "newsUrl": "https://www.comingsoon.net/tv/news/1305853-gen-v-prime-video-release-date-window-revealed-for-the-boys-spin-off-series",
+                  "source": "ComingSoon.net",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ_wEkZs17MiOTULI9fCIT_fkkK51irayjlAWKDQm2lIz0j33PykGai0wQux_Bw7pAGG0uJv7Kx"
+                },
+                "url": "https://www.comingsoon.net/tv/news/1305853-gen-v-prime-video-release-date-window-revealed-for-the-boys-spin-off-series",
+                "snippet": "It stars Jaz Sinclair, Chance Perdomo, Lizze Broadway, Shelley Conn, Maddie Phillips, London Thor, Derek Luh, Asa Germann, Patrick Schwarzenegger, Sean Patrick&nbsp;..."
+              },
+              {
+                "title": "Does The Boys&#39; Compound V Only Work On Children? How The TV ...",
+                "timeAgo": "6h ago",
+                "source": "Screen Rant",
+                "image": {
+                  "newsUrl": "https://screenrant.com/does-the-boys-compound-v-work-on-children-powers-babies/",
+                  "source": "Screen Rant",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRH4HC_qQb1nDvGxbMs6Kz8EG2unvDwjUdpFRsr9wGsZ26P9LXl6Wmn18ZkH09VQnYcbfQbTK4y"
+                },
+                "url": "https://screenrant.com/does-the-boys-compound-v-work-on-children-powers-babies/",
+                "snippet": "In season 3, The Boys also introduced Temp V, aka V24, which initially promised normal humans like Billy Butcher and Hughie temporary supe abilities but later&nbsp;..."
+              },
+              {
+                "title": "The Boys&#39; Gen V spin-off gets release month",
+                "timeAgo": "9h ago",
+                "source": "GamesRadar+",
+                "image": {
+                  "newsUrl": "https://www.gamesradar.com/the-boys-gen-v-release-month/",
+                  "source": "GamesRadar+",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRdkBfoAv9IBhcA8jxKBhpJdw3RKlD49bXzoHyuTk0HhK7kwNhcsCzkeXH02Z3b7Z1CfPpCw6Pw"
+                },
+                "url": "https://www.gamesradar.com/the-boys-gen-v-release-month/",
+                "snippet": "Per the official logline, Gen V is &quot;an irreverent, R-rated series that explores the lives of hormonal, competitive Supes as they put their physical, sexual, and&nbsp;..."
+              },
+              {
+                "title": "TikToker attends garage sale with props from hit tv show &#39;The Boys ...",
+                "timeAgo": "10h ago",
+                "source": "In The Know",
+                "image": {
+                  "newsUrl": "https://www.intheknow.com/post/tiktoker-attends-garage-sale-with-props-from-hit-tv-show-the-boys-heres-how-to-find-them-for-yourself/",
+                  "source": "In The Know",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQsxEV4DUMskdsTzH_-fECCsKQgvQTsTgjx0UGTyyYyUwYquhD9ZRkxrrvRTfffVUj-dsoIECms"
+                },
+                "url": "https://www.intheknow.com/post/tiktoker-attends-garage-sale-with-props-from-hit-tv-show-the-boys-heres-how-to-find-them-for-yourself/",
+                "snippet": "A woman on TikTok found a massive garage sale with items from &#39;The Boys.&#39; Here&#39;s how to find memorabilia."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=The+Boys#The%20Boys"
+          },
+          {
+            "title": {
+              "query": "Mikaela Shiffrin",
+              "exploreLink": "/trends/explore?q=Mikaela+Shiffrin&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.powder.com/trending-news/shiffrin-wins-espy",
+              "source": "Powder Magazine",
+              "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_1bITaJZrXXpzaLbthpCVbMSQcgdltCdDzQysm6ZYEOQlT1B7jZWBsjiW27m6cU8bB9-vV6ZS"
+            },
+            "articles": [
+              {
+                "title": "Mikaela Shiffrin Nabs Deserved ESPY, Brings Skiing Into The ...",
+                "timeAgo": "14h ago",
+                "source": "Powder Magazine",
+                "image": {
+                  "newsUrl": "https://www.powder.com/trending-news/shiffrin-wins-espy",
+                  "source": "Powder Magazine",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcR_1bITaJZrXXpzaLbthpCVbMSQcgdltCdDzQysm6ZYEOQlT1B7jZWBsjiW27m6cU8bB9-vV6ZS"
+                },
+                "url": "https://www.powder.com/trending-news/shiffrin-wins-espy",
+                "snippet": "Mikaela Shiffrin was honored at last night&#39;s ESPY awards with one of the night&#39;s most prestigious awards. Shiffrin took home the award for Best Athlete,&nbsp;..."
+              },
+              {
+                "title": "Mikaela Shiffrin wins Best Female Athlete at 2023 ESPY Awards",
+                "timeAgo": "14h ago",
+                "source": "Vail Daily News",
+                "image": {
+                  "newsUrl": "https://www.vaildaily.com/news/mikaela-shiffrin-wins-best-female-athlete-at-2023-espy-awards/",
+                  "source": "Vail Daily News",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcR7JRwpSn64JW7dp7E6dpdTrp3FAEjFeY6r8f5QhJKaRnJkCpz3Z87FLx0X9GBjfnOW4Am5Tiyw"
+                },
+                "url": "https://www.vaildaily.com/news/mikaela-shiffrin-wins-best-female-athlete-at-2023-espy-awards/",
+                "snippet": "Mikaela Shiffrin claimed the ESPY Awards&#39; top athlete honor Wednesday at the Dolby Theatre in Los Angeles, Calif. The Edwards skier received the award for&nbsp;..."
+              },
+              {
+                "title": "Mikaela Shiffrin is second skier to win ESPY for best athlete",
+                "timeAgo": "15h ago",
+                "source": "NBC Sports",
+                "image": {
+                  "newsUrl": "https://www.nbcsports.com/olympics/news/mikaela-shiffrin-espy-award",
+                  "source": "NBC Sports",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSnRA6QNnRpYhePHjciKybJZ2GnzXjzGT6X7okyOeV6fnj0m9hgg-crfhs20UdhHlgRNZOy6N5M"
+                },
+                "url": "https://www.nbcsports.com/olympics/news/mikaela-shiffrin-espy-award",
+                "snippet": "Shiffrin, who reached 88 career World Cup victories to break Swede Ingemar Stenmark&#39;s record, won the award over nominees including soccer player Sophia Smith,&nbsp;..."
+              },
+              {
+                "title": "Former New Hampshire resident Mikaela Shiffrin wins award for ...",
+                "timeAgo": "9h ago",
+                "source": "WMUR Manchester",
+                "image": {
+                  "newsUrl": "https://www.wmur.com/article/new-hampshire-mikaela-shiffrin-espys/44535016",
+                  "source": "WMUR Manchester",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQjEPTSzZ1BT7ft7Ii2Q9wBpSh6cB-QGtcZ7__egpy92lLFlNXTuFSrEhW4iA8HmzquowNLqfSV"
+                },
+                "url": "https://www.wmur.com/article/new-hampshire-mikaela-shiffrin-espys/44535016",
+                "snippet": "Shiffrin won her 87th World Cup race in March, breaking the mark set by Ingemar Stenmark for the most such wins by any skier. She went on to win an 88th Cup&nbsp;..."
+              },
+              {
+                "title": "Mikaela Shiffrin Wins ESPY Award for Best Female Athlete ...",
+                "timeAgo": "16h ago",
+                "source": "SnowBrains",
+                "image": {
+                  "newsUrl": "https://snowbrains.com/mikaela-shiffrin-wins-espy-award-for-best-female-athlete/",
+                  "source": "SnowBrains",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTFcdLDEN_Be81ZXq3Vfc_lvuwfJYIOqcNuBET6rGpsWZLP3LoJBbQwmwaXuykSi0U7x22PAAJu"
+                },
+                "url": "https://snowbrains.com/mikaela-shiffrin-wins-espy-award-for-best-female-athlete/",
+                "snippet": "U.S. champion skier Mikaela Shiffrin was awarded the Excellence in Sports Performance Yearly (&#39;ESPY&#39;) Award for &#39;Best Athlete \u2013 Women&#39;s Sports on Wednesday,&nbsp;..."
+              },
+              {
+                "title": "Patrick Mahomes and Mikaela Shiffrin win top athlete honors at The ...",
+                "timeAgo": "9h ago",
+                "source": "The Independent",
+                "image": {
+                  "newsUrl": "https://www.independent.co.uk/sport/espys-patrick-mahomes-mikaela-shiffrin-awards-b2374892.html",
+                  "source": "The Independent",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSqjCrwgyuWAUSMex6a4In0GqhQ-vVVvqFaHHmJzzciqwQN_lbYOCJuWLGt_9HU9CGBzNZz-ByG"
+                },
+                "url": "https://www.independent.co.uk/sport/espys-patrick-mahomes-mikaela-shiffrin-awards-b2374892.html",
+                "snippet": "Kansas City Chiefs quarterback Patrick Mahomes has been honored as best men&#39;s sports athlete at The ESPYS, while skier Mikaela Shiffrin won the women&#39;s&nbsp;..."
+              },
+              {
+                "title": "\u201cWhy Is a Record Actually Important:\u201d Mikaela Shiffrin Questions ...",
+                "timeAgo": "12h ago",
+                "source": "EssentiallySports",
+                "image": {
+                  "newsUrl": "https://www.essentiallysports.com/us-sports-news-olympics-news-alpine-skiing-news-why-is-a-record-actually-important-mikaela-shiffrin-questions-long-held-traditions-as-a-part-of-her-espy-acceptance-speech/",
+                  "source": "EssentiallySports",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQF3GrOd5ZuumOb5TWaGO7UMIogHqfei4FArjEibjYOfmiTLpGpOBAWR1c1HCaKE2JvkwjNdMj2"
+                },
+                "url": "https://www.essentiallysports.com/us-sports-news-olympics-news-alpine-skiing-news-why-is-a-record-actually-important-mikaela-shiffrin-questions-long-held-traditions-as-a-part-of-her-espy-acceptance-speech/",
+                "snippet": "Pro athlete Mikaela Shiffrin raised questions about why we always focus on records for the next-gen in her ESPY acceptance speech."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Mikaela+Shiffrin#Mikaela%20Shiffrin"
+          },
+          {
+            "title": {
+              "query": "Saquon Barkley",
+              "exploreLink": "/trends/explore?q=Saquon+Barkley&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.cbssports.com/nfl/news/giants-saquon-barkley-considering-week-1-holdout-amid-franchise-tag-drama-disputes-reported-contract-offer/",
+              "source": "CBSSports.com",
+              "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSGttgG_Fm-rf8XyMokhopmgY8tfHyHyVSvREjeHhFWIApkJNgq4u4l2yiODBcJoADFDgm3nzGQ"
+            },
+            "articles": [
+              {
+                "title": "Giants&#39; Saquon Barkley considering Week 1 holdout amid franchise ...",
+                "timeAgo": "12h ago",
+                "source": "CBSSports.com",
+                "image": {
+                  "newsUrl": "https://www.cbssports.com/nfl/news/giants-saquon-barkley-considering-week-1-holdout-amid-franchise-tag-drama-disputes-reported-contract-offer/",
+                  "source": "CBSSports.com",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSGttgG_Fm-rf8XyMokhopmgY8tfHyHyVSvREjeHhFWIApkJNgq4u4l2yiODBcJoADFDgm3nzGQ"
+                },
+                "url": "https://www.cbssports.com/nfl/news/giants-saquon-barkley-considering-week-1-holdout-amid-franchise-tag-drama-disputes-reported-contract-offer/",
+                "snippet": "The former first-round draft pick previously hinted he&#39;d consider sitting out into the 2023 season absent a contract extension, and he&#39;s yet to sign the $10.9&nbsp;..."
+              },
+              {
+                "title": "Saquon Barkley involves CAA in his contract talks",
+                "timeAgo": "11h ago",
+                "source": "NBC Sports - NFL",
+                "image": {
+                  "newsUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-involves-caa-in-his-contract-talks",
+                  "source": "NBC Sports - NFL",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTFt-A08Sar1j5ksKmtRnv8PWThhhZKohFWdJ6dpwGLTWzuY1a0em_Rq3nxRLJxEvFyKYLeFfmK"
+                },
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-involves-caa-in-his-contract-talks",
+                "snippet": "Five years ago, Giants running back Saquon Barkley shifted his marketing representation from Roc Nation to CAA."
+              },
+              {
+                "title": "Giants&#39; $19.5 million guaranteed offer not enough for Saquon Barkley",
+                "timeAgo": "5h ago",
+                "source": "New York Post",
+                "image": {
+                  "newsUrl": "https://nypost.com/2023/07/13/giants-19-5-million-guaranteed-offer-not-enough-for-saquon-barkley/",
+                  "source": "New York Post",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTMQPZJsP5vx0Lz9l8fi3UitKaDyZXjBopAx7gt-s4_ZsesyZjRi0BNk6AGthmQGkNzwssS3eL1"
+                },
+                "url": "https://nypost.com/2023/07/13/giants-19-5-million-guaranteed-offer-not-enough-for-saquon-barkley/",
+                "snippet": "The Giants&#39; best offer so far to Saquon Barkley included $19.5 million in guarantees, sources told The Post."
+              },
+              {
+                "title": "Peligra disponibilidad de Saquon Barkley para Semana 1 con ...",
+                "timeAgo": "8h ago",
+                "source": "ESPN Deportes",
+                "image": {
+                  "newsUrl": "https://espndeportes.espn.com/futbol-americano/nota/_/id/12308029/nfl-peligra-disponibilidad-de-saquon-barkley-para-semana-1-con-giants",
+                  "source": "ESPN Deportes",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSwMWXN7MZB-92G6qDng5NOKEmaSmcesYPl5-6Idulg33s9IBkWLu2beejhGRVdH7kcEsFSzEPc"
+                },
+                "url": "https://espndeportes.espn.com/futbol-americano/nota/_/id/12308029/nfl-peligra-disponibilidad-de-saquon-barkley-para-semana-1-con-giants",
+                "snippet": "El corredor estelar cuenta hasta las 4 p.m. tiempo del Este del lunes para llegar a un convenio a largo plazo en New York."
+              },
+              {
+                "title": "These three AFC teams are Super Bowl contenders, plus Saquon ...",
+                "timeAgo": "10h ago",
+                "source": "CBSSports.com",
+                "image": {
+                  "newsUrl": "https://www.cbssports.com/nfl/news/these-three-afc-teams-are-super-bowl-contenders-plus-saquon-barkley-drama-getting-real-for-giants/",
+                  "source": "CBSSports.com",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS9O7kJPlmL9KzXWW9WYiehglGomrmMFO8GC1lES3mDo8Kh5SOrCictVEcByNq_lpLrrcrAmHnS"
+                },
+                "url": "https://www.cbssports.com/nfl/news/these-three-afc-teams-are-super-bowl-contenders-plus-saquon-barkley-drama-getting-real-for-giants/",
+                "snippet": "The American Century Championship starts on Friday and as always, there will be dozens of NFL players participating in the celebrity tournament. From&nbsp;..."
+              },
+              {
+                "title": "Giants\u2019 Saquon Barkley expanded his representation in June",
+                "timeAgo": "9h ago",
+                "source": "Yahoo Sports",
+                "image": {
+                  "newsUrl": "https://sports.yahoo.com/giants-saquon-barkley-expanded-representation-171925894.html",
+                  "source": "Yahoo Sports",
+                  "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQtCCJ3zxK-uQ9iovL0KEhnuWKPbFNFij5Z6saBa2tV8XO2wDgb1AoXOsngNtqrmR_0jnwd7xpD"
+                },
+                "url": "https://sports.yahoo.com/giants-saquon-barkley-expanded-representation-171925894.html",
+                "snippet": "Per NFLPA records, Barkley is currently represented by Kim Miale of Roc Nation and Ed Perry of CAA. According to a source with knowledge of the situation, Perry&nbsp;..."
+              },
+              {
+                "title": "Could New York Giants running back Saquon Barkley miss Week 1 ...",
+                "timeAgo": "12h ago",
+                "source": "DAZN News US",
+                "image": {
+                  "newsUrl": "https://www.dazn.com/en-US/news/american-football/could-new-york-giants-running-back-saquon-barkley-miss-week-1-of-the-2023-regular-season/8vxs6jkr861f17fy1kx96zkse",
+                  "source": "DAZN News US",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSVxtkX8aw3Bkz4TZHf3736ypJdjIlw-2RNGAyA7iTGaHIGZkdUyodd9otpUcbYJIlsFQsto58l"
+                },
+                "url": "https://www.dazn.com/en-US/news/american-football/could-new-york-giants-running-back-saquon-barkley-miss-week-1-of-the-2023-regular-season/8vxs6jkr861f17fy1kx96zkse",
+                "snippet": "The franchise has until 4 p.m. ET on Monday to strike a deal, but if this cannot be achieved, Barkley is not eligible to be re-signed until the 2023 season&nbsp;..."
+              },
+              {
+                "title": "Saquon Barkley Rumors: Giants RB Not Eyeing &#39;Market-Setting ...",
+                "timeAgo": "8h ago",
+                "source": "Bleacher Report",
+                "image": {
+                  "newsUrl": "https://bleacherreport.com/articles/10082620-saquon-barkley-rumors-giants-rb-not-eyeing-market-setting-contract-before-deadline",
+                  "source": "Bleacher Report",
+                  "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ5qHbzuQ0JEX_xOTdJAabFGiX0vSpz0hT8nt5bMkaEYpA5IDwI7CScbLWAGNtUY30kdh-1QluY"
+                },
+                "url": "https://bleacherreport.com/articles/10082620-saquon-barkley-rumors-giants-rb-not-eyeing-market-setting-contract-before-deadline",
+                "snippet": "Time is ticking for Saquon Barkley and the New York Giants. Barkley and Big Blue have until Monday to agree to terms on a long-term contract extension.\u2026"
+              },
+              {
+                "title": "NFC Notes: Saquon Barkley, Commanders, Cowboys, Giants,",
+                "timeAgo": "10h ago",
+                "source": "NFL Trade Rumors",
+                "image": {
+                  "newsUrl": "https://nfltraderumors.co/nfc-notes-saquon-barkley-commanders-cowboys-giants-5/",
+                  "source": "NFL Trade Rumors",
+                  "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRht9RbuzTngq-yRibzjVJwkqOMx8tqkWUUQBDu7MpzYKKWPUqAADdJe_mFln5mNjSRXw0xM3z4"
+                },
+                "url": "https://nfltraderumors.co/nfc-notes-saquon-barkley-commanders-cowboys-giants-5/",
+                "snippet": "Commanders assistant TEs coach Todd Storm said Turner has been working to improve in all facets of his game."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Saquon+Barkley#Saquon%20Barkley"
+          },
+          {
+            "title": {
+              "query": "Bariatric surgery",
+              "exploreLink": "/trends/explore?q=Bariatric+surgery&date=now+7-d&geo=US"
+            },
+            "formattedTraffic": "20K+",
+            "relatedQueries": [],
+            "image": {
+              "newsUrl": "https://www.medscape.com/viewarticle/994321",
+              "source": "Medscape",
+              "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQEbNLOG2_bDE8ByQOUPpZTwkyfgy1Q4qqnrTCcu3BuJZstdnAAsVnz7KYk-GthYi7B8ndjj7b4"
+            },
+            "articles": [
+              {
+                "title": "One Type of Bariatric Surgery Betters IBD Outcomes",
+                "timeAgo": "13h ago",
+                "source": "Medscape",
+                "image": {
+                  "newsUrl": "https://www.medscape.com/viewarticle/994321",
+                  "source": "Medscape",
+                  "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQEbNLOG2_bDE8ByQOUPpZTwkyfgy1Q4qqnrTCcu3BuJZstdnAAsVnz7KYk-GthYi7B8ndjj7b4"
+                },
+                "url": "https://www.medscape.com/viewarticle/994321",
+                "snippet": "In people with morbid obesity and inflammatory bowel disease (IBD), sleeve gastrectomy and not Roux-en-Y gastric bypass was associated with a lower risk for&nbsp;..."
+              }
+            ],
+            "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=US&tt=Bariatric+surgery#Bariatric%20surgery"
+          }
+        ]
+      }
+    ],
+    "endDateForNextRequest": "20230712",
+    "rssFeedPageUrl": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+  }
+}

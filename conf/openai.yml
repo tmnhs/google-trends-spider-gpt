@@ -1,0 +1,13 @@
+# openai配置
+base_url: 
+api_key: 
+deployment_name: deploy_gpt35_turbo
+model: gpt-3.5-turbo
+openai_version: '2023-05-15'
+
+prompt_paragraph: |
+  Suppose you are an excellent writer.I have a markdown-formatted webpage that I will provide to you in segments,your task is to rewrite it.The rewritten requirements are: 1. English words and grammar that can be understood by high school students.2. Clearly describe and humorous writing style.3, the number of words can only be more than the original text.4, if you can't write, replace the original word, remember not to repeat. 5,please preserve all Markdown image formats.
+  The final markdown can include text, images, links, and lists. Links may be cut off by line breaks, please fix if necessary. For example, `[ ![img alt](www.img.com)\n description\n ](www.example2.com)`.
+  Examples of unrelated content include enlarged image buttons, title-switching buttons, duplicated lines, disclaimer notices, “read more” sections, and isolated sentences.
+
+prompt_title: "This is the title, snippet, keywords, and summary of an article. Please optimize and generate a new title in English that looks different from the original title. Please output only the title and start with Title: when outputting."

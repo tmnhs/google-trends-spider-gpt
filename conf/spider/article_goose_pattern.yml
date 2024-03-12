@@ -1,0 +1,58 @@
+# goose库的配置
+goose_pattern:
+  # 属性为ArticleContextPattern()的参数
+  - attr: class 
+    value: short-story
+  - attr: class 
+    value: g-content
+  - attr: class 
+    value: post-outer
+  - attr: class 
+    value: post-content
+  - attr: class 
+    value: single
+  - attr: class 
+    value: td-post-content
+  - attr: class 
+    value: content-wrapper
+  - attr: class 
+    value: content-area
+  - attr: class 
+    value: post-area__content-wrapper
+  - attr: class 
+    value: post-content-container
+  - attr: class 
+    value: content
+  - attr: class 
+    value: entry-content
+  - attr: class 
+    value: sde-single-post__content
+  - attr: class 
+    value: content-main
+  - attr: class 
+    value: article-body
+  - attr: class 
+    value: article-content
+  - attr: class 
+    value: article
+  - attr: class 
+    value: article__body
+  - attr: class 
+    value: article__content
+  - attr: class 
+    value: ar
+  - attr: class 
+    value: invisibleBorder
+    domain: go.reference.com
+  - attr: class 
+    value: desktop-html
+    domain: go.reference.com
+  - tag: article
+  - attr: itemprop 
+    value: articleBody
+  - attr: class 
+    value: post-page
+  - attr: class 
+    value: page-content
+  - attr: class 
+    value: inner-entry-content

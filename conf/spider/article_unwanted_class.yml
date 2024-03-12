@@ -1,0 +1,48 @@
+# class黑名单
+# 
+# 通用的class黑名单
+unwanted_class:
+  - header_re
+  - content_re
+  - tag-box
+  - single-page-notice
+  - storyTopics
+  - premium-story
+  - overlay
+  - Image__Citation
+  - c-shortcodeListiclePrecap
+  - slider
+  - caas-3p-blocked
+  - insettwocolumn
+  - credit
+  - inline-article-recirc
+  - sidebar
+  - scrolltop
+  - clear
+  - caption
+  - wp-caption-text
+  - gallery-origin
+  - gallery-item-source
+  - site-header
+  - sidebar-element
+  - summary-header
+  - visually-hidden
+  - content__tags
+  - soft-login-gate
+  - flipp-ux-header
+  - player-overlay
+  - ad
+# 使用正则表达式限制的class黑名单
+unwanted_re_class:
+  # hascaption这种情况
+  - .*_caption.* 
+  - .*metadata.*
+  - .*-meta.*
+  - .*content.*meta.*
+  - .*content.*header.*
+  - .*sharing.*
+  - .*share.*
+  - .*morelike.*
+  - .*related.*
+  - .*author.*
+  - ^(google-dfp-ad|adsbygoogle|ad-|ad_|article-meta|article-img-meta|article-social|column|custom_read|Instagram|social-network|enlarge|mobile-menu)

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Trends 分段改写</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2 class="mt-4">Google Trends 文字改写</h2>
+        <div id="trends-container" class="mt-4"></div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            // 获取URL参数中的文件夹名
+            const urlParams = new URLSearchParams(window.location.search);
+            const folder = urlParams.get('folder');
+
+            // 如果没有提供文件夹名，则使用默认值
+            const folderPath = folder ? `${folder}/` : '20230604/';
+
+            // 从本地文件加载数据
+            $.getJSON(folderPath + "data.json", function(data) {
+                // 遍历数据并创建HTML元素
+                data.forEach(function(item, index) {
+                    let trend_item = `
+                        <div class="card mb-4">
+                            <div class="card-header" id="heading-${index}">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse-${index}" aria-expanded="true" aria-controls="collapse-${index}">
+                                        ${item.search_term} (${item.search_count} searches)
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapse-${index}" class="collapse" aria-labelledby="heading-${index}" data-parent="#trends-container">
+                                <div class="card-body">
+                                    <ul class="list-unstyled">
+                                        ${item.related_news.map(news => `
+                                            <li>
+                                                <a href="${news.url}" target="_blank">${news.title}</a>
+                                                ${news.origin_url && news.origin_url.trim() !== '' ? `<a href="#" class="new-url-link" data-url="${news.origin_url.split('/').map(part => encodeURIComponent(part)).join('/')}" style="margin-left: 10px; color: green;">(搬运文章)</a>` : ''}
+                                                ${news.new_url && news.new_url.trim() !== '' ? `<a href="#" class="new-url-link" data-url="${news.new_url.split('/').map(part => encodeURIComponent(part)).join('/')}" style="margin-left: 10px; color: purple;">(改写文章)</a>` : ''}
+
+                                            </li>
+                                        `).join('')}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>`;
+                    $("#trends-container").append(trend_item);
+                });
+
+                // 添加点击事件处理程序以在新窗口中打开new_url的内容
+                $('.new-url-link').on('click', function(e) {
+                    e.preventDefault();
+                    const url = $(this).data('url');
+                    const decodedUrl = decodeURIComponent(url);
+                    var newWindow = window.open(decodedUrl);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

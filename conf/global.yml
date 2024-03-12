@@ -1,0 +1,14 @@
+# selenium配置
+webdriver:
+  command_executor: http://localhost:8000/wd/hub
+  debugging_port: 8000
+  debugging_addr: 0.0.0.0
+
+google_api_url: https://trends.google.com/trends/api/dailytrends?hl=EN&geo=US
+
+# google_trends文件保存目录
+origin_dir: ./google_dailytrends
+new_dir: ./google_dailytrends_new
+
+# User-Agent
+UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36

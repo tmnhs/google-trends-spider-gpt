@@ -1,0 +1,48 @@
+# 特定url的class、id黑名单(正则)
+url_unwanted_re:
+  # www.playbill.com : 删除底部的News
+  - url: playbill.com
+    unwanted_re_class:
+      - .*bsp-list-promo.*
+      - .*adblock-modal.*
+      - .*bsp-site-footer.*
+  - url: rfvtgb
+    unwanted_re_class:
+      - .*-caption.*
+  # www.cbsnews.com : 删除底部的Trending News
+  - url: cbsnews.com
+    unwanted_re_class:
+      - .*recirculation.*
+  # www.nytimes.com : 删除网页开头多余的'Supported by'和 SKIP ADVERTISEMENT
+  - url: nytimes.com
+    unwanted_re_id:
+      - .*-wrapper
+      - .*sponsor.*
+  # www.bbc.com : 删除底部的Related Topics和More on this story
+  - url: bbc.com
+    unwanted_re_class:
+      - .*TopicListWrapper.*
+      - .*LinksWrapper.*
+  - url: nbcsports.com
+    unwanted_re_class:
+      - .*SideBarArticleStack.*
+      - .*LinkEnhancement.*
+      - .*textAlign-center.*
+  # www.rollingsone : 删除底部的More News
+  - url: rollingstone.com
+    unwanted_re_class:
+      - .*brands-most-popular.*
+      - .*heading-outer.*
+      - .*story-grid.*
+  # www.nbc.com : 删除post卡片
+  - url: nbc.com
+    unwanted_re_class:
+      - embed-code-other
+  # www.tmz.com : 删除底部的广告视频
+  - url: tmz.com
+    unwanted_re_class:
+      - embed-responsive-item
+  - url: travelerdoor.com
+    unwanted_re_class:
+      - .*font-.*
+      - .*text.*
