@@ -160,7 +160,6 @@ def get_html_by_goose(url, raw_html=''):
     config = Configuration()
     config.http_timeout = 10
     config.browser_user_agent = configs.UA
-    # config.http_proxies = {'http': 'http://10.252.34.17:6001'}
     host = urlsplit(url).hostname
     config.http_headers = {
         "Referer": f"https://{host}/",
